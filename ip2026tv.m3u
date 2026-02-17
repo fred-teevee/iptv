@@ -1,0 +1,222 @@
+#EXTINF:-1 tvg-id="Das.Erste.ch" tvg-logo="https://picserve.netplus.ch/channels/daserste.png" group-title="Hauptsender",ARD HD
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
+#EXTINF:-1 tvg-id="ZDF.ch" tvg-logo="https://picserve.netplus.ch/channels/zdf.png" group-title="Hauptsender",ZDF HD
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+#EXTINF:-1 tvg-id="SRF.1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf1.png" group-title="Hauptsender",SRF1 HD
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+#EXTINF:-1 tvg-id="SRF.zwei.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png" group-title="Hauptsender",SRF2 HD
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+#EXTINF:-1 tvg-id="SRF.info.ch" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png" group-title="Hauptsender",SRF info HD
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+#EXTINF:-1 tvg-id="ORF.1.ch" tvg-logo="https://picserve.netplus.ch/channels/orf1.png" group-title="Hauptsender",ORF1 HD
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+#EXTINF:-1 tvg-id="ORF.2.ch" tvg-logo="https://picserve.netplus.ch/channels/orf2.png" group-title="Hauptsender",ORF2 HD
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+#EXTINF:-1 tvg-id="RTL.ch" tvg-logo="https://picserve.netplus.ch/channels/rtl.png" group-title="Hauptsender",RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
+#EXTINF:-1 tvg-id="ProSieben.ch" tvg-logo="https://picserve.netplus.ch/channels/pro7.png" group-title="Hauptsender",ProSieben HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/pro7/browser-HLS8/pro7.m3u8
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="SAT.1.ch" tvg-logo="https://picserve.netplus.ch/channels/sat1.png" group-title="Hauptsender",SAT.1 HD
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/sat1/browser-dash/sat1.mpd
+#EXTINF:-1 tvg-id="Kabel.eins.ch" tvg-logo="https://picserve.netplus.ch/channels/kabel1.png" group-title="Hauptsender", Kabel 1 HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/kabel1/browser-dash/kabel1.mpd
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/kabel1/browser-HLS8/kabel1.m3u8
+#EXTINF:-1 tvg-id="VOX.ch" tvg-logo="https://picserve.netplus.ch/channels/vox.png" group-title="Hauptsender",VOX
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+#EXTINF:-1 tvg-id="RTL.ZWEI.ch" tvg-logo="https://picserve.netplus.ch/channels/rtl2.png" group-title="Hauptsender",RTLZWEI
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+#EXTINF:-1 tvg-id="Nitro.ch" tvg-logo="https://picserve.netplus.ch/channels/rtlnitro.png" group-title="Hauptsender",RTL NITRO
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+#EXTREM https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="Hauptsender",7MAXX ?
+https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-dash/prosiebenmaxx.mpd
+#EXTINF:-1 tvg-id="Servus.TV.ch" tvg-logo="https://picserve.netplus.ch/channels/servustvhd.png" group-title="Hauptsender",ServusTV HD
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
+#EXTINF:-1 tvg-id="ATV.HD.at" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_at.png" group-title="Hauptsender",atv HD
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
+#EXTINF:-1 tvg-id="ATV2.HD.at" tvg-logo="https://picserve.netplus.ch/channels/atv.png" group-title="Hauptsender",atv2
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+#EXTINF:-1 tvg-id="3+.ch" tvg-logo="https://www.lyngsat.com/logo/tv/num/3_plus_ch.png" group-title="Hauptsender",3+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=2439&extension=ts
+#EXTINF:-1 tvg-id="DMAX.ch" tvg-logo="https://picserve.netplus.ch/channels/dmax.png" group-title="Hauptsender",DMAX
+https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
+#EXTINF:-1 tvg-id="SAT.1.GOLD.ch" tvg-logo="https://picserve.netplus.ch/channels/sat1gold.png" group-title="Hauptsender",SAT.1 GOLD
+https://viamotionhsi.netplus.ch/live/eds/sat1gold/browser-dash/sat1gold.mpd
+#EXTINF:-1 tvg-id="sixx.ch" tvg-logo="https://picserve.netplus.ch/channels/sixx.png" group-title="Hauptsender",sixx HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/sixx/browser-dash/sixx.mpd
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele.5.ch" tvg-logo="https://picserve.netplus.ch/channels/tele5.png" group-title="Hauptsender",tele5
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
+#EXTINF:-1 tvg-id="TV24.ch" tvg-logo="https://picserve.netplus.ch/channels/tv24.png" group-title="Hauptsender",tv24 HD
+https://viamotionhsi.netplus.ch/live/eds/tv24/browser-dash/tv24.mpd
+#EXTINF:-1 tvg-id="Star.TV.ch" tvg-logo="https://picserve.netplus.ch/channels/startv.png" group-title="Hauptsender",STAR TV
+https://viamotionhsi.netplus.ch/live/eds/startv/browser-dash/startv.mpd
+#EXTINF:-1 tvg-id="RTS.1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png" group-title="Hauptsender",RTS 1 HD
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+#EXTINF:-1 tvg-id="RTS.2.ch" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png" group-title="Hauptsender",RTS 2 HD
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+#EXTINF:-1 tvg-id="RTSH.24.ch" group-title="Hauptsender",RTS Info HD
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+#EXTINF:-1 tvg-id="rtscouleur3.ch"  group-title="Hauptsender",RTS Couleur3 TV
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/Couleur3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="RSI.La.1.ch" tvg-logo="https://picserve.netplus.ch/channels/rsila1.png" group-title="Hauptsender",RSI La 1 HD
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 tvg-id="RSI.LA.2.ch" tvg-logo="https://picserve.netplus.ch/channels/rsila2.png" group-title="Hauptsender",RSI La 2 HD
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 tvg-id="Super.RTL.ch" tvg-logo="https://picserve.netplus.ch/channels/superrtl.png" group-title="Kidz",RTL SUPER
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+#EXTINF:-1 tvg-id="Comedy.Central.ch" tvg-logo="https://picserve.netplus.ch/channels/comedycentral.png" group-title="Kidz",comedy central HD
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
+#EXTINF:-1 tvg-id="Nickelodeon.ch" tvg-logo="https://picserve.netplus.ch/channels/comedycentralnick.png" group-title="Kidz",Nickelodeon
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
+#EXTINF:-1 tvg-id="Disney.Channel.D.ch" tvg-logo="https://picserve.netplus.ch/channels/disneychannelde.png" group-title="Kidz",Disney Channel
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychannelde.mpd
+#EXTINF:-1 tvg-id="RIC.TV.ch" tvg-logo="https://picserve.netplus.ch/channels/ric.png" group-title="Kidz",RiC
+https://viamotionhsi.netplus.ch/live/eds/ric/browser-dash/ric.mpd
+#EXTINF:-1 tvg-id="KiKa.ch" tvg-logo="https://picserve.netplus.ch/channels/kika.png" group-title="Kidz",KIKA HD
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
+#EXTINF:-1 tvg-id="MDR.ch" tvg-logo="https://picserve.netplus.ch/channels/mdr.png" group-title="Dritte",mdr HD
+https://viamotionhsi.netplus.ch/live/eds/mdr/browser-dash/mdr.mpd
+#EXTINF:-1 tvg-id="ARD-alpha.ch" tvg-logo="https://picserve.netplus.ch/channels/bralpha.png" group-title="Dritte",ARD alpha
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-dash/bralpha.mpd
+#EXTINF:-1 tvg-id="One.ch" tvg-logo="https://picserve.netplus.ch/channels/onehd.png" group-title="Dritte",ARD one HD
+https://viamotionhsi.netplus.ch/live/eds/onehd/browser-dash/onehd.mpd
+#EXTINF:-1 tvg-id="ZDFneo.ch" tvg-logo="https://picserve.netplus.ch/channels/zdfneohd.png" group-title="Dritte",zdf neo HD
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+#EXTINF:-1 tvg-id="ZDFinfo.ch" tvg-logo="https://picserve.netplus.ch/channels/zdfinfohd.png" group-title="Dritte",zdf info HD
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
+#EXTINF:-1 tvg-id="Phoenix.Info.News.ch" tvg-logo="https://picserve.netplus.ch/channels/phoenixhd.png" group-title="Dritte",phoenix HD
+https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
+#EXTINF:-1 tvg-id="3sat.ch" tvg-logo="https://picserve.netplus.ch/channels/3sat.png" group-title="Dritte", 3sat HD
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+#EXTINF:-1 tvg-id="RBB.ch" tvg-logo="https://picserve.netplus.ch/channels/rbb.png" group-title="Dritte",rbb HD
+https://viamotionhsi.netplus.ch/live/eds/rbb/browser-dash/rbb.mpd
+#EXTINF:-1 tvg-id="SWR.ch" tvg-logo="https://picserve.netplus.ch/channels/swrbw.png" group-title="Dritte", SWR HD
+https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-dash/swrbw.mpd
+#EXTINF:-1 tvg-id="BR.ch" tvg-logo="https://picserve.netplus.ch/channels/brhdsud.png" group-title="Dritte",BR HD
+https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-dash/brhdsud.mpd
+#EXTINF:-1 tvg-id="WDR.ch" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" group-title="Dritte",WDR HD
+https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
+#EXTINF:-1 tvg-id="NDR.ch" tvg-logo="https://picserve.netplus.ch/channels/ndr.png" group-title="Dritte",ndr HD
+https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
+#EXTINF:-1 tvg-id="HR.ch" tvg-logo="https://picserve.netplus.ch/channels/hr.png" group-title="Dritte",hr HD
+https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
+#EXTINF:-1 tvg-id="Kanal.9.ch" tvg-logo="https://picserve.netplus.ch/channels/kanal9.png" group-title="Dritte",kanal9 HD
+https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-dash/kanal9.mpd
+#EXTINF:-1 tvg-id="Tele.Bärn.ch" tvg-logo="https://picserve.netplus.ch/channels/telebaern.png" group-title="Dritte",TeleBärn
+https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-dash/telebaern.mpd
+#EXTINF:-1 tvg-id="Tele.Top.ch" tvg-logo="https://picserve.netplus.ch/channels/teletop.png" group-title="Dritte",TeleTop
+https://teletop.vedge.infomaniak.com/livecast/ik:teletop/manifest.m3u8
+#EXTINF:-1 tvg-id="Telebasel.ch" tvg-logo="https://picserve.netplus.ch/channels/telebasel.png" group-title="Dritte",TeleBasel HD
+https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/manifest.m3u8
+#EXTINF:-1 tvg-id="TeleZüri.ch" tvg-logo="https://picserve.netplus.ch/channels/telezueri.png" group-title="Dritte",TeleZüri HD
+https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/VhYG1bBAxmL8o2oDQj_gPg/index-s32.m3u8
+#EXTINF:-1 tvg-id="Tele.M1.ch" tvg-logo="https://picserve.netplus.ch/channels/telem1.png" group-title="Dritte",Tele M1 HD
+https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/kfXPNZDgr_dXTsaaChhTBQ/index-s32.m3u8
+#EXTINF:-1 tvg-id="Tele.1.ch" tvg-logo="https://picserve.netplus.ch/channels/tele1.png" group-title="Dritte",Tele1 HD
+https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/wV_SSlEQskAVSpwtofzL6A/index-s32.m3u8
+#EXTINF:-1 tvg-id="Tele.Ticino.ch" tvg-logo="https://picserve.netplus.ch/channels/teletecino.png" group-title="Dritte",teletecino HD
+https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:-1 tvg-id="WELT.ch" tvg-logo="https://picserve.netplus.ch/channels/n24.png" group-title="News & Dokus",WELT
+https://viamotionhsi.netplus.ch/live/eds/n24/browser-dash/n24.mpd
+#EXTINF:-1 tvg-id="n-tv.ch" tvg-logo="https://picserve.netplus.ch/channels/ntv.png" group-title="News & Dokus",n-tv
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
+#EXTINF:-1 tvg-id="kabel.eins.Doku.ch" tvg-logo="https://picserve.netplus.ch/channels/kabeleinsdocu.png" group-title="News & Dokus",kabel eins DOKU ?
+https://dash4.antik.sk/live/test_kabel1_doku_tizen/playlist.m3u8
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/kabeleinsdocu/browser-dash/kabeleinsdocu.mpd
+#EXTINF:-1 tvg-id="Eurosport.1.D.ch" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="Sport",Eurosport1
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
+#EXTINF:-1 tvg-id="Sport1.ch" tvg-logo="https://picserve.netplus.ch/channels/sport1.png" group-title="Sport",sport1 HD
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
+#EXTINF:-1 tvg-id="Deluxe.Music.ch" tvg-logo="https://picserve.netplus.ch/channels/deluxemusic.png" group-title="Musik", Deluxe Music
+https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
+#EXTINF:-1 tvg-id="musig24.ch" group-title="Musik",Musig24
+https://tv.musig24.tv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="Stingray.iConcerts.ch" group-title="Musik",STINGRAY iConcerts HD
+https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="Anixe.Serie.ch" tvg-logo="https://picserve.netplus.ch/channels/anixe.png" group-title="Hauptsender",ANIXE SERIE HD
+https://viamotionhsi.netplus.ch/live/eds/anixe/browser-dash/anixe.mpd
+#EXTINF:-1 tvg-id="Tagesschau24.ch" tvg-name="tagesschau24" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Tagesschau24_2012_Print.svg" group-title="News & Dokus",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="DOKUSAT.ch" tvg-name="Dokusat" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dokusat-de.png" group-title="News & Dokus",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 tvg-id="blue.Zoom.D.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png" group-title="Sport",blue zoom D HD
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
+#EXTINF:-1 tvg-id="More.Than.Sports.TV.ch" tvg-name="More Than Sports TV" tvg-logo="https://logos.fandom.com/wiki/More_than_Sports_TV?file=More_Than_Sports_TV_HD_Logo_2021.svg" group-title="Sport",More Than Sports TV HD
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Amasia (720p)
+https://splendid-film-amasia-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",BBC Top Gear Germany (1080p)
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",DEFA TV (720p)
+https://wdrmediagroup-defatv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",FilmGold Germany (1080p)
+https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Fluss Monster (1080p)
+https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Graham Norton Germany (1080p)
+https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Hell's Kitchen Germany (1080p)
+https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Krimi (720p)
+https://4dad3dcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0FSRFBsdXNLcmltaV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Lindenstrasse (720p)
+https://ad2ef2da.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0FSRFBsdXNMaW5kZW5zdHJhZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",LooLoo Kids TV (1080p)
+https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",MyTime Movie Network Germany (1080p)
+https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Naruto Germany (1080p)
+https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Germany" group-title="RakutenTV",Rakuten TV Action Movies Germany (1080p)
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Germany" group-title="RakutenTV",Rakuten TV Comedy Movies Germany (1080p)
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Rakuten TV Crime Series Germany (1080p)
+https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Germany" group-title="RakutenTV",Rakuten TV Drama Movies Germany (1080p)
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Germany" group-title="RakutenTV",Rakuten TV Family Movies Germany (1080p)
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Rakuten TV German Cinema (1080p)
+https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Rakuten TV Romance Movies Germany (1080p)
+https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Rakuten TV Thrillers Germany (1080p)
+https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Germany" group-title="RakutenTV",Rakuten TV Top Movies Germany (1080p)
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Red Bull TV Germany (1080p)
+https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Royalworld Germany (720p)
+https://amogonetworx-royalworld-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Starke Frauen (1080p)
+https://mainstreamstarkefrauen-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Strongman.us@Germany" group-title="RakutenTV",Strongman Champions League (720p)
+https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us@Germany" group-title="RakutenTV",Tastemade (1080p)
+https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Tennis Channel Germany (720p)
+https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Top Sci-Fi (1080p)
+https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Top Serien (1080p)
+https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Travelxp Germany (720p)
+https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Vevo Pop Germany (1080p)
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Vevo Schlager Pop (1080p)
+https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",Wicked Tuna Germany (1080p)
+https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de@SD" group-title="RakutenTV",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="RakutenTV",XITE (720p)
+https://xite-rakuten.amagi.tv/playlist.m3u8
