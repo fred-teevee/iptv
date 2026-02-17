@@ -54,8 +54,14 @@ https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-dash/tv24.mpd
 #EXTINF:-1 tvg-id="Star.TV.ch" tvg-logo="https://picserve.netplus.ch/channels/startv.png" group-title="Hauptsender",STAR TV
 https://viamotionhsi.netplus.ch/live/eds/startv/browser-dash/startv.mpd
-#EXTINF:-1 tvg-id="R9.HD.at" tvg-logo="https://www.lyngsat.com/logo/tv/rr/r_9_at.png" group-title="Hauptsender",R9
+#EXTINF:-1 tvg-id="R9.Österreich.ch" tvg-logo="https://www.lyngsat.com/logo/tv/rr/r_9_at.png" group-title="Hauptsender",R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Okto.HD.at" tvg-logo="https://picserve.netplus.ch/channels/atv.png" group-title="Hauptsender",Okto TV 8
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="W9.ch" tvg-logo="https://picserve.netplus.ch/channels/atv.png" group-title="Hauptsender",FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="W24.at" tvg-logo="https://picserve.netplus.ch/channels/atv.png" group-title="Hauptsender",W24
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTS.1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png" group-title="Hauptsender",RTS 1 HD
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 tvg-id="RTS.2.ch" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png" group-title="Hauptsender",RTS 2 HD
@@ -108,8 +114,8 @@ https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
 https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
 #EXTINF:-1 tvg-id="HR.ch" tvg-logo="https://picserve.netplus.ch/channels/hr.png" group-title="Dritte",hr HD
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
-#EXTINF:-1 tvg-id="ORF.3.ch" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orf-iii-at.png" group-title="Dritte",ORF III HD
-https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="ORF.3.ch" tvg-logo="https://picserve.netplus.ch/channels/orf3.png" group-title="Dritte",ORF III HD
+https://test02.mdn.ors.at/orf/orf3/qxa/manifest.mpd
 #EXTINF:-1 tvg-id="Kanal.9.ch" tvg-logo="https://picserve.netplus.ch/channels/kanal9.png" group-title="Dritte",kanal9 HD
 https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-dash/kanal9.mpd
 #EXTINF:-1 tvg-id="Tele.Bärn.ch" tvg-logo="https://picserve.netplus.ch/channels/telebaern.png" group-title="Dritte",TeleBärn
@@ -126,6 +132,10 @@ https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/ma
 https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/wV_SSlEQskAVSpwtofzL6A/index-s32.m3u8
 #EXTINF:-1 tvg-id="Tele.Ticino.ch" tvg-logo="https://picserve.netplus.ch/channels/teletecino.png" group-title="Dritte",teletecino HD
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:-1 tvg-id="TirolTV.at@SD" tvg-logo="https://picserve.netplus.ch/channels/teletecino.png" group-title="Dritte",Tirol TV
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:-1 tvg-id="TV1Oberosterreich.at@SD" tvg-logo="https://picserve.netplus.ch/channels/teletecino.png" group-title="Dritte",TV 1 Oberösterreich
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 #EXTINF:-1 tvg-id="WELT.ch" tvg-logo="https://picserve.netplus.ch/channels/n24.png" group-title="News & Dokus",WELT
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-dash/n24.mpd
 #EXTINF:-1 tvg-id="n-tv.ch" tvg-logo="https://picserve.netplus.ch/channels/ntv.png" group-title="News & Dokus",n-tv
@@ -137,7 +147,7 @@ https://dash4.antik.sk/live/test_kabel1_doku_tizen/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:-1 tvg-id="Sport1.ch" tvg-logo="https://picserve.netplus.ch/channels/sport1.png" group-title="Sport",sport1 HD
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
-#EXTINF:-1 tvg-id="ORF.Sport.+.ch" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orf-sport-plus-at.svg" group-title="Sport",ORF Sport+
+#EXTINF:-1 tvg-id="ORF.Sport.+.ch" tvg-logo="https://picserve.netplus.ch/channels/orfs.png" group-title="Sport",ORF Sport+
 https://test02.mdn.ors.at/orf/orfs/qxa/manifest.mpd
 #EXTINF:-1 tvg-id="Deluxe.Music.ch" tvg-logo="https://picserve.netplus.ch/channels/deluxemusic.png" group-title="Musik", Deluxe Music
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
@@ -232,10 +242,3 @@ https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="RakutenTV",XITE (720p)
 https://xite-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TirolTV.at@SD" group-title="Test",Tirol TV
-https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:-1 tvg-id="TV1Oberosterreich.at@SD" group-title="Test",TV 1 Oberösterreich (1080p)
-https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
-#EXTINF:-1 tvg-id="W24.at@SD" group-title="Test",W24
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
