@@ -127,8 +127,6 @@ https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
 #EXTINF:-1 tvg-id="kabel.eins.Doku.ch" tvg-logo="https://picserve.netplus.ch/channels/kabeleinsdocu.png" group-title="News & Dokus",kabel eins DOKU ?
 https://dash4.antik.sk/live/test_kabel1_doku_tizen/playlist.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/kabeleinsdocu/browser-dash/kabeleinsdocu.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Sa 21.02: 05:00 Superbike WM ServusTV
-https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
 #EXTINF:-1 tvg-id="Eurosport.1.D.ch" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="Sport",Eurosport1
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:-1 tvg-id="Sport1.ch" tvg-logo="https://picserve.netplus.ch/channels/sport1.png" group-title="Sport",sport1 HD
