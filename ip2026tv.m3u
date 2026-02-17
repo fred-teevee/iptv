@@ -115,7 +115,7 @@ https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
 #EXTINF:-1 tvg-id="HR.ch" tvg-logo="https://picserve.netplus.ch/channels/hr.png" group-title="Dritte",hr HD
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
 #EXTINF:-1 tvg-id="ORF.3.ch" tvg-logo="https://picserve.netplus.ch/channels/orf3.png" group-title="Dritte",ORF III HD
-https://test02.mdn.ors.at/orf/orf3/qxa/manifest.mpd
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="Kanal.9.ch" tvg-logo="https://picserve.netplus.ch/channels/kanal9.png" group-title="Dritte",kanal9 HD
 https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-dash/kanal9.mpd
 #EXTINF:-1 tvg-id="Tele.Bärn.ch" tvg-logo="https://picserve.netplus.ch/channels/telebaern.png" group-title="Dritte",TeleBärn
