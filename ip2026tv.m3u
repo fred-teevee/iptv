@@ -176,6 +176,8 @@ https://dash4.antik.sk/live/test_kabel1_doku_tizen/playlist.m3u8
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-id="DE:.Travelxp.be" group-title="News & Dokus",Travelxp D
 https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" group-title="News & Dokus",Discovery Life (US)
+https://tvpass.org/live/DiscoveryLife/hd
 #EXTINF:-1 tvg-id="Eurosport.1.D.ch" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="Sport",Eurosport1
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:-1 tvg-id="Sport1.ch" tvg-logo="https://picserve.netplus.ch/channels/sport1.png" group-title="Sport",sport1 HD
