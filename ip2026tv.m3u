@@ -233,9 +233,9 @@ https://tvpass.org/live/USANetworkEast/hd
 https://tvpass.org/live/FoxSports1/hd
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Test",Fox Sports 2 (US)
 https://tvpass.org/live/FoxSports2/hd
-#EXTINF:-1 tvg-id="" group-title="Sport",BeIN Sports XTRA (US)
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" group-title="Sport",BeIN Sports XTRA (US)
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sport",BeIN Sports XTRA en Espanol (US-ES)
+#EXTINF:-1 tvg-id="beIN.Sports.En.EspaÃ±ol.HD.us2" group-title="Sport",BeIN Sports XTRA en Espanol (US-ES)
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 
