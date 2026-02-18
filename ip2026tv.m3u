@@ -7,9 +7,9 @@ https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
 #EXTINF:-1 tvg-id="SRF.zwei.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png" group-title="Hauptsender",SRF2 HD
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf1.png",SRF1 HD 1080p
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf1.png" group-title="Hauptsender",SRF1 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png",SRF2 HD 1080p
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png" group-title="Hauptsender",SRF2 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 #EXTINF:-1 tvg-id="SRF.info.ch" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png" group-title="Hauptsender",SRF info HD
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
