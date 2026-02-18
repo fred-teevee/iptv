@@ -309,3 +309,9 @@ https://tvpass.org/live/tsn3/hd
 https://tvpass.org/live/tsn4/hd
 #EXTINF:-1 tvg-id="" group-title="Test",TSN5 (1080p) [Not 24/7]
 https://tvpass.org/live/tsn5/hd
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" group-title="Test",FX Movie Channel (US)
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 tvg-id="FX.HD.us2" group-title="Test",FX Network (US)
+https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 tvg-id="TNT.HD.us2" group-title="Test",TNT (US)
+https://tvpass.org/live/TNTEast/hd
