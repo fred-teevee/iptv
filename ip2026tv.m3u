@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Das.Erste.ch" tvg-logo="https://picserve.netplus.ch/channels/daserste.png" group-title="Hauptsender",ARD HD
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
 #EXTINF:-1 tvg-id="ZDF.ch" tvg-logo="https://picserve.netplus.ch/channels/zdf.png" group-title="Hauptsender",ZDF HD
