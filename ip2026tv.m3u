@@ -217,13 +217,13 @@ https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DE:.World.of.Freesports.be" group-title="Sport",World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sport",CBS Sports Network USA (US)
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Sport",CBS Sports Network USA (US)
 https://tvpass.org/live/CBSSportsNetworkUSA/hd
-#EXTINF:-1 tvg-id="" group-title="Sport",ESPN (US)
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="Sport",ESPN (US)
 https://tvpass.org/live/ESPN/hd
-#EXTINF:-1 tvg-id="" group-title="Sport",ESPN U (US)
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" group-title="Sport",ESPN U (US)
 https://tvpass.org/live/ESPNU/hd
-#EXTINF:-1 tvg-id="" group-title="Sport",ESPN 2 (US)
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="Sport",ESPN 2 (US)
 https://tvpass.org/live/ESPN2/hd
 
 
