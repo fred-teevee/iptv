@@ -569,8 +569,15 @@ https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/canalalgerie.png" group-title="Weitere",Canal Algerie2
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
-#EXTINF:-1 tvg-id="CCTV4.ch" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png" group-title="Weitere",cctv4
+#EXTINF:-1 tvg-id="CCTV4.ch" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png" group-title="Weitere",cctv4 (CH)
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" group-title="testen",A&E (US)
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="testen",ABC (KABC) Los Angeles (US)
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="testen",ABC (WABC) New York (US)
+https://tvpass.org/live/abc-kabc-los-angeles-ca/WABCDT1/hd
 
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
