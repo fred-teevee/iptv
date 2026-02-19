@@ -484,7 +484,7 @@ https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.
 #EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/valtv.png" group-title="Frankreich",Val TV
 https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
 
-EXTINF:-1 tvg-id="RRai.1.ch" tvg-logo="https://picserve.netplus.ch/channels/rai1.png" group-title="Italien",Rai 1
+#EXTINF:-1 tvg-id="Rai.1.ch" tvg-logo="https://picserve.netplus.ch/channels/rai1.png" group-title="Italien",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
 #EXTINF:-1 tvg-id="Rai.2.ch" tvg-logo="https://picserve.netplus.ch/channels/rai2.png" group-title="Italien",Rai 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
