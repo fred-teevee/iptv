@@ -205,6 +205,16 @@ https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" group-title="News & Dokus",Discovery Life (US)
 https://tvpass.org/live/DiscoveryLife/hd
+#EXTINF:-1 tvg-id="Sky.News.International.ch" tvg-logo="https://picserve.netplus.ch/channels/skynews.png" group-title="News & Dokus",sky news (UK)
+https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
+#EXTINF:-1 tvg-id="CNN.ch" tvg-logo="https://picserve.netplus.ch/channels/cnn.png" group-title="News & Dokus",cnn europe (UK)
+https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
+#EXTINF:-1 tvg-id="Al.Jazeera.English.ch" tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png" group-title="News & Dokus",AlJazeera (UK)
+https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
+#EXTINF:-1 tvg-id="CNBC.UK.ch" tvg-logo="https://picserve.netplus.ch/channels/cnbc.png" group-title="News & Dokus",CNBC (UK)
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.TV.ch" tvg-logo="https://picserve.netplus.ch/channels/bloomberg.png" group-title="News & Dokus",bloomberg (UK)
+https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.1.D.ch" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" group-title="Sport",Eurosport1
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
@@ -346,16 +356,6 @@ https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 tvg-id="ITV4.ch" tvg-logo="https://picserve.netplus.ch/channels/itv4.png" group-title="UK",itv4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
-#EXTINF:-1 tvg-id="Sky.News.International.ch" tvg-logo="https://picserve.netplus.ch/channels/skynews.png" group-title="UK",sky news
-https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
-#EXTINF:-1 tvg-id="CNN.ch" tvg-logo="https://picserve.netplus.ch/channels/cnn.png" group-title="UK",cnn europe
-https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
-#EXTINF:-1 tvg-id="Al.Jazeera.English.ch" tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png" group-title="UK",AlJazeera
-https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
-#EXTINF:-1 tvg-id="CNBC.UK.ch" tvg-logo="https://picserve.netplus.ch/channels/cnbc.png" group-title="UK",CNBC 720p
-https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.TV.ch" tvg-logo="https://picserve.netplus.ch/channels/bloomberg.png" group-title="UK",bloomberg
-https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
 #EXTINF:-1 tvg-id="Quest.ch" tvg-logo="https://picserve.netplus.ch/channels/quest.png" group-title="UK",QUEST
 https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8
 #EXTINF:-1 tvg-id="Channel.4.ch" tvg-logo="https://picserve.netplus.ch/channels/channel4.png" group-title="UK",channel4
