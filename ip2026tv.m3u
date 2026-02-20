@@ -182,6 +182,8 @@ https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kidz",ORF Kids
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kidz",Ninja Kidz TV (US)
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WELT.ch" tvg-logo="https://picserve.netplus.ch/channels/n24.png" group-title="News & Dokus",WELT
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
