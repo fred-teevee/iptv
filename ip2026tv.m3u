@@ -1087,44 +1087,14 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2406/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",KHL Prime (RU)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2403/index.m3u
 
-#EXTINF:-1 tvg-id="" group-title="testen",Ab 2492 hoch
+#EXTINF:-1 tvg-id="" group-title="testen",Ab 2410 hoch
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2492/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2493
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2493/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2494
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2494/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2495
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2495/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2496
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2496/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2497
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2497/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2498
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2498/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2499
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2499/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2500
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2500/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2501
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2501/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2502
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2502/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2503
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2503/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2504
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2504/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2505
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2505/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2506
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2506/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2507
+#EXTINF:-1 tvg-id="" group-title="testen",Star Sports Select 2 (?), Tata Play
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2507/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2508
+#EXTINF:-1 tvg-id="" group-title="testen",Star Sports Select 1 (?), Tata Play
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2508/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2509
+#EXTINF:-1 tvg-id="" group-title="testen",TNT Sports 2 (?)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2509/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2510
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2510/index.m3u
 
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
