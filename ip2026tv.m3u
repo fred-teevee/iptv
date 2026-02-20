@@ -578,6 +578,12 @@ https://tvpass.org/live/AEEast/hd
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="testen",ABC (WABC) New York (US)
 https://tvpass.org/live/WABCDT1/hd
+#EXTINF:-1 tvg-id="" group-title="testen",NPO (NL)
+https://rbtvlive.cdn.tele2portal.com/live/NPO1/NPO1.isml/.m3u8
+#EXTINF:-1 tvg-id="" group-title="testen",NPO 2 (NL)
+https://rbtvlive.cdn.tele2portal.com/live/NPO2/NPO2.isml/.m3u8
+#EXTINF:-1 tvg-id="" group-title="testen",NPO 3 (NL)
+https://rbtvlive.cdn.tele2portal.com/live/NPO3/NPO3.isml/.m3u8
 
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
