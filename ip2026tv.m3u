@@ -577,7 +577,7 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="testen",ABC (KABC) Los Angeles (US)
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="testen",ABC (WABC) New York (US)
-https://tvpass.org/live/abc-kabc-los-angeles-ca/WABCDT1/hd
+https://tvpass.org/live/WABCDT1/hd
 
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
