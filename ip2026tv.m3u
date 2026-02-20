@@ -1116,6 +1116,8 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2422/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2421/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",2420
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2420/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2419
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2419/index.m3u
 
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
