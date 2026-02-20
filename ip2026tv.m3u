@@ -588,6 +588,16 @@ https://tvpass.org/live/altitude-sports-denver/hd
 https://tvpass.org/live/AMCEast/hd
 #EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" group-title="testen",American Hereos Channel (US)
 https://tvpass.org/live/AmericanHeroesChannel/hd
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" group-title="testen",BBC America (US)
+https://tvpass.org/live/BBCAmericaEast/hd
+#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" group-title="testen",BBC News North America (US)
+https://tvpass.org/live/BCWorldNewsNorthAmerica/hd
+#EXTINF:-1 tvg-id="BET.HD.us2" group-title="testen",BET (US)
+https://tvpass.org/live/BETEast/hd
+#EXTINF:-1 tvg-id="BET.Her.us2" group-title="testen",BET Her (US)
+https://tvpass.org/live/BETHerEast/hd
+
+
 #EXTINF:-1 tvg-id="" group-title="testen",NPO (NL)
 https://rbtvlive.cdn.tele2portal.com/live/NPO1/NPO1.isml/.m3u8
 #EXTINF:-1 tvg-id="" group-title="testen",NPO 2 (NL)
