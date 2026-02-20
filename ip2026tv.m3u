@@ -572,6 +572,10 @@ https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.
 #EXTINF:-1 tvg-id="CCTV4.ch" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png" group-title="Weitere",cctv4 (CH)
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="testen",Sony One ACTIONS HITS
+https://jmp2.uk/stvp-DE300002CL
+#EXTINF:-1 tvg-id="" group-title="testen",Sony One Comedy HITS
+https://jmp2.uk/stvp-DE30000489
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" group-title="testen",A&E (US)
 https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="testen",ABC (KABC) Los Angeles (US)
