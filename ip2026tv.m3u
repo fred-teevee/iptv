@@ -254,6 +254,8 @@ https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 #EXTINF:-1 tvg-name="DF1 HD" tvg-id="DF1.ch" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png",DF1
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sport.F1.at" group-title="Sport",Sky Sport F1 (DE)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2503/index.m3u
 #EXTINF:-1 tvg-id="DE:.Red.Bull.TV.be" group-title="Sport",Red Bull TV D
 https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="More.Than.Sports.TV.ch" tvg-name="More Than Sports TV" tvg-logo="https://logos.fandom.com/wiki/More_than_Sports_TV?file=More_Than_Sports_TV_HD_Logo_2021.svg" group-title="Sport",More Than Sports TV HD
@@ -282,6 +284,22 @@ https://tvpass.org/live/FoxSports1/hd
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="NBC.Sports.Now.us2" group-title="Sport",NBC Sports NOW (US)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" group-title="Sport",Canal+ Sport 5 (PL)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2516/index.m3u
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" group-title="Sport",Canal+ Sport 5 (PL)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2519/index.m3u
+#EXTINF:-1 tvg-id="Digi.Sport.1.ro" group-title="Sport",Digi Sport 1 (RO)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2523/index.m3u
+#EXTINF:-1 tvg-id="Digi.Sport.2.ro" group-title="Sport",Digi Sport 2 (RO)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2522/index.m3u
+#EXTINF:-1 tvg-id="Digi.Sport.3.ro" group-title="Sport",Digi Sport 3 (RO)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2524/index.m3u
+#EXTINF:-1 tvg-id="Digi.Sport.4.ro" group-title="Sport",Digi Sport 4 (RO)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2538/index.m3u
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="Sport",SportTV 4 (PT)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2528/index.m3u
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Sport",DAZN 1 (PT)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 #EXTINF:-1 tvg-id="" group-title="Sport",F1 Channel (US)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=64dd0ce3-1a0f-4d0c-8ee3-21d8032923bf
 #EXTINF:-1 tvg-id="" group-title="Sport",BeIN Sports XTRA (US)
@@ -562,13 +580,63 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="" group-title="RakutenTV",Xena – Die Kriegerprinzessin
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca2c99d5ac400080d1324/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ad6ea8bd-52ba-4fe9-b819-e2d11ebf8c26
 
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" group-title="USA",A&E (US)
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="USA",ABC (KABC) Los Angeles (US)
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="USA",ABC (WABC) New York (US)
+https://tvpass.org/live/WABCDT1/hd
+#EXTINF:-1 tvg-id="ACC.Network.us2" group-title="USA",ACC Network (US)
+https://tvpass.org/live/ACCNetwork/hd
+#EXTINF:-1 tvg-id="Altitude.Sports.us2" group-title="USA",Altitude Sports Denver (US)
+https://tvpass.org/live/altitude-sports-denver/hd
+#EXTINF:-1 tvg-id="AMC.HD.us2" group-title="USA",AMC (US)
+https://tvpass.org/live/AMCEast/hd
+#EXTREM http://148.113.160.49:14209
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" group-title="USA",American Hereos Channel (US)
+https://tvpass.org/live/AmericanHeroesChannel/hd
+#EXTINF:-1 tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2" group-title="USA",AWE (US)
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" group-title="USA",BBC America (US)
+https://tvpass.org/live/BBCAmericaEast/hd
+#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" group-title="USA",BBC News North America (US)
+https://tvpass.org/live/BCWorldNewsNorthAmerica/hd
+#EXTINF:-1 tvg-id="BET.HD.us2" group-title="USA",BET (US)
+https://tvpass.org/live/BETEast/hd
+#EXTINF:-1 tvg-id="BET.Her.us2" group-title="USA",BET Her (US)
+https://tvpass.org/live/BETHerEast/hd
+#EXTINF:-1 tvg-id="Bravo.HD.us2" group-title="USA",Bravo (US)
+https://tvpass.org/live/BravoEast/hd
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" group-title="USA",Disney (US)
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" group-title="USA",Disney Junior (US)
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" group-title="USA",Disney XD (US)
+https://tvpass.org/live/DisneyXDEast/hd
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" group-title="USA",FX Movie Channel (US)
 https://tvpass.org/live/FXMovieChannel/hd
 #EXTINF:-1 tvg-id="FX.HD.us2" group-title="USA",FX Network (US)
 https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 tvg-id="FXX.HD.us2" group-title="USA",FXX (US)
+https://tvpass.org/live/FXXEast/hd
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="USA",HBO (US)
+https://tvpass.org/live/HBOEast/hd
+#EXTINF:-1 tvg-id="HBO2.HD.us2" group-title="USA",HBO 2 (US)
+https://tvpass.org/live/HBO2East/hd
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" group-title="USA",HBO Signature (US)
+https://tvpass.org/live/HBOSignatureEast/hd
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" group-title="USA",HBO Comedy (US)
+https://tvpass.org/live/HBOComedyEast/hd
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" group-title="USA",Showtime (US)
+https://tvpass.org/live/ShowtimeEast/hd
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" group-title="USA",Showtime 2 (US)
+https://tvpass.org/live/Showtime2East/hd
 #EXTINF:-1 tvg-id="TNT.HD.us2" group-title="USA",TNT (US)
 https://tvpass.org/live/TNTEast/hd
 
+#EXTINF:-1 tvg-id="BBC.One.ch"tvg-logo="https://picserve.netplus.ch/channels/bbc1.png" group-title="UK",BBC ONE
+https://a1xs.vip/1000002
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-HLS8/bbc1.m3u8
 #EXTINF:-1 tvg-id="BBC.Two.ch" tvg-logo="https://picserve.netplus.ch/channels/bbc2.png" group-title="UK",BBC TWO
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 #EXTINF:-1 tvg-id="BBC.Three./.CBBC.ch" tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png" group-title="UK",BBC THREE CBBC
@@ -938,36 +1006,22 @@ https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.
 #EXTINF:-1 tvg-id="CCTV4.ch" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png" group-title="Weitere",cctv4 (CH)
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" group-title="testen",A&E (US)
-https://tvpass.org/live/AEEast/hd
-#EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="testen",ABC (KABC) Los Angeles (US)
-https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="testen",ABC (WABC) New York (US)
-https://tvpass.org/live/WABCDT1/hd
-#EXTINF:-1 tvg-id="ACC.Network.us2" group-title="testen",ACC Network (US)
-https://tvpass.org/live/ACCNetwork/hd
-#EXTINF:-1 tvg-id="Altitude.Sports.us2" group-title="testen",Altitude Sports Denver (US)
-https://tvpass.org/live/altitude-sports-denver/hd
-#EXTINF:-1 tvg-id="AMC.HD.us2" group-title="testen",AMC (US)
-https://tvpass.org/live/AMCEast/hd
-#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" group-title="testen",American Hereos Channel (US)
-https://tvpass.org/live/AmericanHeroesChannel/hd
-#EXTINF:-1 tvg-id="BBC.America.HD.us2" group-title="testen",BBC America (US)
-https://tvpass.org/live/BBCAmericaEast/hd
-#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" group-title="testen",BBC News North America (US)
-https://tvpass.org/live/BCWorldNewsNorthAmerica/hd
-#EXTINF:-1 tvg-id="BET.HD.us2" group-title="testen",BET (US)
-https://tvpass.org/live/BETEast/hd
-#EXTINF:-1 tvg-id="BET.Her.us2" group-title="testen",BET Her (US)
-https://tvpass.org/live/BETHerEast/hd
-
-
 #EXTINF:-1 tvg-id="" group-title="testen",NPO (NL)
 https://rbtvlive.cdn.tele2portal.com/live/NPO1/NPO1.isml/.m3u8
 #EXTINF:-1 tvg-id="" group-title="testen",NPO 2 (NL)
 https://rbtvlive.cdn.tele2portal.com/live/NPO2/NPO2.isml/.m3u8
 #EXTINF:-1 tvg-id="" group-title="testen",NPO 3 (NL)
 https://rbtvlive.cdn.tele2portal.com/live/NPO3/NPO3.isml/.m3u8
+#EXTINF:-1 tvg-id="" group-title="testen",SONY (UNBEKANNT)
+SONY,http://148.113.160.49:14205
+#EXTINF:-1 tvg-id="" group-title="testen",SONY (UNBEKANNT)
+SONY,http://148.113.160.49:14204
+#EXTINF:-1 tvg-id="" group-title="testen",Rausfinden
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2509/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",TNT Sports 1 (?)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2506/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",TNT Sports 2 (?)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2506/index.m3u
 
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
@@ -975,8 +1029,6 @@ https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmax
 #EXTINF:-1 tvg-id="kabel.eins.Doku.ch" tvg-logo="https://picserve.netplus.ch/channels/kabeleinsdocu.png" group-title="off",kabel eins DOKU ?
 https://dash4.antik.sk/live/test_kabel1_doku_tizen/playlist.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/kabeleinsdocu/browser-dash/kabeleinsdocu.mpd
-#EXTINF:-1 tvg-id="BBC.One.ch"tvg-logo="https://picserve.netplus.ch/channels/bbc1.png" group-title="off",BBC ONE?
-https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-HLS8/bbc1.m3u8
 #EXTINF:-1 tvg-id="ITV1.ch" tvg-logo="https://picserve.netplus.ch/channels/itv.png" group-title="off",itv1?
 https://viamotionhsi.netplus.ch/live/eds/itv/browser-HLS8/itv.m3u8
 #EXTINF:-1 tvg-id="" group-title="off",ESPN Deportes
