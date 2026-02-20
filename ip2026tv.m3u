@@ -284,7 +284,7 @@ https://tvpass.org/live/FoxSports1/hd
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="NBC.Sports.Now.us2" group-title="Sport",NBC Sports NOW (US)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-#EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" group-title="Sport",Canal+ Sport 5 (PL)
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" group-title="Sport",Canal+ Sport 2 (PL)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2516/index.m3u
 #EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" group-title="Sport",Canal+ Sport 5 (PL)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2519/index.m3u
@@ -1022,6 +1022,14 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2509/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2506/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",TNT Sports 2 (?)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2506/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",beIN Sports 1 (?)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2499/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",beIN Sports 2 (?)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2500/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",beIN Sports 3 (?)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2501/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2540 Test (?)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2540/index.m3u
 
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
