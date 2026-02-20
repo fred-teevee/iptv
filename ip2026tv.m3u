@@ -1042,19 +1042,19 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2548/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2550/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",Sky Arte (?)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2494/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2491
+#EXTINF:-1 tvg-id="" group-title="testen",Sky Krimi?
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2491/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2490
+#EXTINF:-1 tvg-id="" group-title="testen",Deutsch
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2490/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2489
+#EXTINF:-1 tvg-id="" group-title="testen",Sky Cinema Family (AT)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2489/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2488
+#EXTINF:-1 tvg-id="" group-title="testen",Sky Atlantic (AT)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2488/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2487
+#EXTINF:-1 tvg-id="" group-title="testen",Discovery
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2487/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2486
+#EXTINF:-1 tvg-id="" group-title="testen",Sky Cinema Classics (AT) ?
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2486/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2485
+#EXTINF:-1 tvg-id="" group-title="testen",Sky Cinema Action (AT) ?
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2485/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",2484
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2484/index.m3u
@@ -1064,8 +1064,32 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2483/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2482/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",2481
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2481/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2480
+#EXTINF:-1 tvg-id="" group-title="testen",Sky Sport Bundesliga ? (DE)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2480/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2479
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2479/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2478
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2478/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2477
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2477/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2476
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2476/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2475
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2475/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2474
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2474/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2473
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2473/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2472
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2472/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2471
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2471/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2470
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2470/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2469
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2469/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",2468
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2468/index.m3u
 
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
