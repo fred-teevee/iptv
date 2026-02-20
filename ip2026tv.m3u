@@ -198,6 +198,8 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-id="DE:.Travelxp.be" group-title="News & Dokus",Travelxp D
 https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" group-title="News & Dokus",Animal Planet (US)
+https://tvpass.org/live/AnimalPlanetEast/hd
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" group-title="News & Dokus",Discovery Life (US)
 https://tvpass.org/live/DiscoveryLife/hd
 #EXTINF:-1 tvg-id="Food.Network.E.ch" tvg-logo="https://picserve.netplus.ch/channels/foodnetwork.png" group-title="News & Dokus",food network E (UK)
@@ -572,10 +574,6 @@ https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.
 #EXTINF:-1 tvg-id="CCTV4.ch" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png" group-title="Weitere",cctv4 (CH)
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="testen",Sony One ACTIONS HITS
-https://jmp2.uk/stvp-DE300002CL
-#EXTINF:-1 tvg-id="" group-title="testen",Sony One Comedy HITS
-https://jmp2.uk/stvp-DE30000489
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" group-title="testen",A&E (US)
 https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="testen",ABC (KABC) Los Angeles (US)
@@ -590,17 +588,12 @@ https://tvpass.org/live/altitude-sports-denver/hd
 https://tvpass.org/live/AMCEast/hd
 #EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" group-title="testen",American Hereos Channel (US)
 https://tvpass.org/live/AmericanHeroesChannel/hd
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" group-title="testen",Animal Planet (US)
-https://tvpass.org/live/AnimalPlanetEast/hd
-
 #EXTINF:-1 tvg-id="" group-title="testen",NPO (NL)
 https://rbtvlive.cdn.tele2portal.com/live/NPO1/NPO1.isml/.m3u8
 #EXTINF:-1 tvg-id="" group-title="testen",NPO 2 (NL)
 https://rbtvlive.cdn.tele2portal.com/live/NPO2/NPO2.isml/.m3u8
 #EXTINF:-1 tvg-id="" group-title="testen",NPO 3 (NL)
 https://rbtvlive.cdn.tele2portal.com/live/NPO3/NPO3.isml/.m3u8
-#EXTINF:-1 tvg-id="" group-title="testen",Eurosport 2 (FR)
-http://212.102.60.80/Eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
