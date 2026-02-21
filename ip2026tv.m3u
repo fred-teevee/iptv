@@ -254,7 +254,7 @@ https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 #EXTINF:-1 tvg-name="DF1 HD" tvg-id="DF1.ch" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png",DF1
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
-#EXTINF:-1 tvg-id="Sky.Sport.Austria.1.at" group-title="Sport",Sky Sport Austria 1 (DE)
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.at" group-title="Sport",Sky Sport Austria 1 (DE)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2492/index.m3u
 #EXTINF:-1 tvg-id="Sky.Sport.F1.at" group-title="Sport",Sky Sport F1 (AT)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2503/index.m3u
@@ -1048,11 +1048,11 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2491/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2490/index.m3u
 #EXTINF:-1 tvg-id="Sky.Atlantic.at" group-title="testen",Sky Cinema Family
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2489/index.m3u
-#EXTINF:-1 tvg-id="Sky.Cinema.Family.at" group-title="testen",Sky Cinema Family (AT)
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.at" group-title="testen",Sky Atlantic
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2488/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",Discovery
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2487/index.m3u
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.at" group-title="testen",Sky Cinema Classics (AT) ?
+#EXTINF:-1 tvg-id="" group-title="testen",Sky Cinema Classics (AT) ?
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2486/index.m3u
 #EXTINF:-1 tvg-id="Sky.Cinema.Action.at" group-title="testen",Sky Cinema Action (AT) ?
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2485/index.m3u
@@ -1070,7 +1070,7 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2480/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2479/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",Sky Sport ? (AT)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2478/index.m3u
-#EXTINF:-1 tvg-id="Sky.Sport.News.at" group-title="testen",Sky Sport News (AT)
+#EXTINF:-1 tvg-id="" group-title="testen",Sky Sport News (AT)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2477/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",2476
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2476/index.m3u
