@@ -254,20 +254,10 @@ https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 #EXTINF:-1 tvg-name="DF1 HD" tvg-id="DF1.ch" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png",DF1
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.at" group-title="Sport",Sky Sport Austria 1 (DE)
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2492/index.m3u
-#EXTINF:-1 tvg-id="Sky.Sport.F1.at" group-title="Sport",Sky Sport F1 (AT)
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2503/index.m3u
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" group-title="Sport",Sky Sports F1 (UK)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
 #EXTINF:-1 tvg-id="DE:.Red.Bull.TV.be" group-title="Sport",Red Bull TV D
 https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="More.Than.Sports.TV.ch" tvg-name="More Than Sports TV" tvg-logo="https://logos.fandom.com/wiki/More_than_Sports_TV?file=More_Than_Sports_TV_HD_Logo_2021.svg" group-title="Sport",More Than Sports TV HD
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="DE:.Tennis.Channel.be" group-title="Sport",Tennis Channel Germany
-https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DE:.Strongman.Champions.League.be" group-title="Sport",Strongman Champions League
-https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DE:.World.of.Freesports.be" group-title="Sport",World of Freesports
-https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Sport",Sky Sports Football (UK)
 https://a1xs.vip/2000003
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Sport",CBS Sports Network USA (US)
@@ -286,23 +276,83 @@ https://tvpass.org/live/FoxSports1/hd
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="NBC.Sports.Now.us2" group-title="Sport",NBC Sports NOW (US)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-#EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" group-title="Sport",Canal+ Sport 2 (PL)
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="Sport",HUB Premier 1 (SG)
+https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" group-title="Sport",HUB Premier 2 (SG)
+HUB Premier 2,https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" group-title="Sport",HUB Premier 3 (SG)
+https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="Sport",HUB Premier 4 (SG)
+https://hls.iill.top/api/Hub-Premier-4/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.5.sg" group-title="Sport",HUB Premier 5 (SG)
+https://hls.iill.top/api/Hub-Premier-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.6.sg" group-title="Sport",HUB Premier 6 (SG)
+https://hls.iill.top/api/Hub-Premier-6/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.7.sg" group-title="Sport",HUB Premier 7 (SG)
+https://hls.iill.top/api/Hub-Premier-7/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="Sport",HUB Premier 8 (SG)
+https://hls.iill.top/api/Hub-Premier-8/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.9.sg" group-title="Sport",HUB Premier 9 (SG)
+https://hls.iill.top/api/Hub-Premier-9/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.10.sg" group-title="Sport",HUB Premier 10 (SG)
+https://hls.iill.top/api/Hub-Premier-10/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Premier.11.sg" group-title="Sport",HUB Premier 11 (SG)
+https://hls.iill.top/api/Hub-Premier-11/index.m3u8
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Sport",HUB Sport 1 (SG)
+https://hls.iill.top/api/Hub-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Sport",HUB Sport 2 (SG)
+https://hls.iill.top/api/Hub-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Sport",HUB Sport 3 (SG)
+https://hls.iill.top/api/Hub-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Sport",HUB Sport 4 (SG)
+https://hls.iill.top/api/Hub-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Sport",HUB Sport 5 (SG)
+https://hls.iill.top/api/Hub-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="Fight.Sports.(HD).sg" group-title="Sport",Fight Sports (SG)
+https://hls.iill.top/api/Fight-Sports/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV.(HD).sg" group-title="Sport",SpoTV 1 (SG)
+Spotv 1,https://hls.iill.top/api/Spotv-1/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV.2.(HD).sg" group-title="Sport",SpoTV 2 (SG)
+Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT.(HD).1.sg" group-title="Sport",Eurosport 1 (SG)
+Eurosport 1,https://hls.iill.top/api/Eurosport-1/index.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT.(HD).2.sg" group-title="Sport",Eurosport 2 (SG)
+Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.(HD).sg" group-title="Sport",beIN Sports 1 (SG)
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.(HD).sg" group-title="Sport",beIN Sports 2 (SG)
+https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.(HD).sg" group-title="Sport",beIN Sports 3 (SG)
+https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.4.(HD).sg" group-title="Sport",beIN Sports 4 (SG)
+https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.5.(HD).sg" group-title="Sport",beIN Sports 5 (SG)
+https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sport",TSN1 (CA)
+https://7pal.short.gy/tsn1ca
+#EXTINF:-1 tvg-id="" group-title="Sport",TSN2 (CA)
+https://7pal.short.gy/tsn2ca
+#EXTINF:-1 tvg-id="" group-title="Sport",TSN3 (CA)
+https://7pal.short.gy/tsn3ca
+#EXTINF:-1 tvg-id="" group-title="Sport",TSN4 (CA)
+https://7pal.short.gy/tsn4ca
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" group-title="Sport",Canal+ Sport 2 (PL) +
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2516/index.m3u
-#EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" group-title="Sport",Canal+ Sport 5 (PL)
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" group-title="Sport",Canal+ Sport 5 (PL) +
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2519/index.m3u
-#EXTINF:-1 tvg-id="Digi.Sport.1.ro" group-title="Sport",Digi Sport 1 (RO)
+#EXTINF:-1 tvg-id="Digi.Sport.1.ro" group-title="Sport",Digi Sport 1 (RO) +
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2523/index.m3u
-#EXTINF:-1 tvg-id="Digi.Sport.2.ro" group-title="Sport",Digi Sport 2 (RO)
+#EXTINF:-1 tvg-id="Digi.Sport.2.ro" group-title="Sport",Digi Sport 2 (RO) +
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2522/index.m3u
-#EXTINF:-1 tvg-id="Digi.Sport.3.ro" group-title="Sport",Digi Sport 3 (RO)
+#EXTINF:-1 tvg-id="Digi.Sport.3.ro" group-title="Sport",Digi Sport 3 (RO) +
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2524/index.m3u
-#EXTINF:-1 tvg-id="Digi.Sport.4.ro" group-title="Sport",Digi Sport 4 (RO)
+#EXTINF:-1 tvg-id="Digi.Sport.4.ro" group-title="Sport",Digi Sport 4 (RO) +
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2538/index.m3u
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="Sport",SportTV 4 (PT)
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="Sport",SportTV 4 (PT) +
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2528/index.m3u
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Sport",DAZN 1 (PT)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Sport",DAZN 1 (PT) +
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Sport",RMC Sport 1 (FR)
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="Sport",RMC Sport 1 (FR) +
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2545/index.m3u
 #EXTINF:-1 tvg-id="" group-title="Sport",F1 Channel (US)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=64dd0ce3-1a0f-4d0c-8ee3-21d8032923bf
@@ -316,11 +366,17 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us2" group-title="Sport",Sports Grid (US)
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sport",DAZN Ringside (US)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f04c5fa9-d571-4c71-988c-2348ce234210
+#EXTINF:-1 tvg-id="More.Than.Sports.TV.ch" tvg-name="More Than Sports TV" tvg-logo="https://logos.fandom.com/wiki/More_than_Sports_TV?file=More_Than_Sports_TV_HD_Logo_2021.svg" group-title="Sport",More Than Sports TV HD
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="DE:.Tennis.Channel.be" group-title="Sport",Tennis Channel Germany
+https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DE:.Strongman.Champions.League.be" group-title="Sport",Strongman Champions League
+https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DE:.World.of.Freesports.be" group-title="Sport",World of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport",TNA Wrestling (US)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=89e8423e-bb3a-4ec6-86b2-6741e774a40c
-#EXTINF:-1 tvg-id="",Lucha Libre AAA (US)
+#EXTINF:-1 tvg-id="" group-title="Sport",Lucha Libre AAA (US)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f9296796-0626-4d8a-aa9e-ba79e4d5fd37
 #EXTINF:-1 tvg-id="" group-title="Sport",Red Bull TV
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
@@ -1084,501 +1140,80 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2407/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2406/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",KHL Prime (RU)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2403/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2475-2400 weg
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2468/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2399
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2399/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2398
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2398/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2397
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2397/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2396
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2396/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2395
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2395/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2395
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2395/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2394
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2394/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2394
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2394/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2393
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2393/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2392
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2392/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2391
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2391/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2390
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2390/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2389
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2389/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2388
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2388/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2387
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2387/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2386
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2386/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2385
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2385/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2384
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2384/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2383
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2383/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2382
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2382/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2381
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2381/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2380
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2380/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2379
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2379/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2378
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2378/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2377
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2377/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2376
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2376/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2375
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2375/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2374
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2374/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2373
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2373/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2372
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2372/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2371
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2371/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2370
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2370/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2369
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2369/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2368
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2368/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2367
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2367/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2366
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2366/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2365
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2365/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2364
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2364/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2363
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2363/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2362
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2362/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2361
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2361/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2360
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2360/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2359
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2359/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2358
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2358/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2357
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2357/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2356
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2356/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2355
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2355/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2354
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2354/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2353
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2353/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2352
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2352/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2351
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2351/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2350
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2350/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2349
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2349/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2348
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2348/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2347
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2347/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2346
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2346/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2345
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2345/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2344
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2344/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2343
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2343/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2342
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2342/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2341
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2341/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2340
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2340/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2339
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2339/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2338
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2338/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2337
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2337/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2336
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2336/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2335
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2335/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2334
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2334/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2333
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2333/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2332
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2332/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2331
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2331/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2330
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2330/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2329
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2329/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2328
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2328/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2327
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2327/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2326
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2326/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2325
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2325/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2324
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2324/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2323
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2323/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2322
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2322/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2321
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2321/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2320
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2320/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2319
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2319/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2318
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2318/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2317
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2317/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2316
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2316/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2315
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2315/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2314
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2314/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2313
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2313/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2312
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2312/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2311
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2311/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2310
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2310/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2309
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2309/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2308
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2308/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2307
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2307/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2306
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2306/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2305
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2305/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2304
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2304/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2303
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2303/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2302
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2302/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2301
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2301/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2300
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2300/index.m3u
-
-#EXTINF:-1 tvg-id="" group-title="testen",Ab 2510 hoch
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2492/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",Star Sports Select 2 (?), Tata Play
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2507/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",Star Sports Select 1 (?), Tata Play
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2508/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",TNT Sports 2 (?)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2509/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2511
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2511/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2512
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2512/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2513
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2513/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2514
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2514/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2515
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2515/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2516
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2516/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2517
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2518
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2518/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2519
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2519/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2520
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2520/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2521
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2521/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2522
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2522/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2523
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2523/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2524
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2524/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2525
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2525/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2526
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2526/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2527
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2527/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2528
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2528/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2529
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2529/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2530
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2530/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2531
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2532
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2532/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2533
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2533/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2534
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2534/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2535
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2535/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2536
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2536/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2537
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2537/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2538
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2538/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2539
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2539/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2540
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2540/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2541
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2541/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2542
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2542/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2543
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2543/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2544
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2544/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2545
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2545/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2546
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2546/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2547
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2547/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2548
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2548/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2549
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2549/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2550
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2550/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2551
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2551/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2552
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2552/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2553
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2553/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2554
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2554/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2555
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2555/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2556
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2556/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2557
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2557/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2558
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2558/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2559
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2559/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2560
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2560/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2561
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2561/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2562
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2562/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2563
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2563/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2564
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2564/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2565
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2565/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2566
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2566/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2567
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2567/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2568
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2568/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2569
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2569/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2570
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2570/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2571
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2571/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2572
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2572/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2573
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2573/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2574
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2574/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2575
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2575/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2576
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2576/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2577
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2577/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2578
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2578/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2579
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2579/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2580
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2580/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2581
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2581/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2582
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2582/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2583
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2583/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2584
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2584/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2585
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2585/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2586
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2586/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2587
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2587/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2588
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2588/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2589
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2589/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2590
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2590/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2591
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2591/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2592
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2592/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2593
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2593/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2594
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2594/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2595
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2595/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2596
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2596/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2597
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2597/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2598
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2598/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2599
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2599/index.m3u
-#EXTINF:-1 tvg-id="" group-title="testen",2600
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2600/index.m3u
-
 #EXTINF:-1 tvg-id="" group-title="SkyTest",Sky Moto GP IT
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19133/index.m3u
-#EXTINF:-1 tvg-id="" group-title="SkyTest",Sky Moto GP IT (other Acc)
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19132/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="SkyTest",Sky Sport 1 fhd
+#EXTINF:-1 tvg-id="" group-title="SkyTest",Sky Sport F1 (DE)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19027/index.m3u
-#EXTINF:0  group-title="SkyTest",sky Sport 1 FHD DE oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19027/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SkyTest",Sky sport 1
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19028/index.m3u
-#EXTINF:0  group-title="SkyTest",sky Sport 1 DE oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19028/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SkyTest",eur sport 2
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19040/index.m3u
-#EXTINF:0  group-title="SkyTest",Eurosport360 2 HD DE oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19040/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SkyTest",Sky sport
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19041/index.m3u
-#EXTINF:0  group-title="SkyTest",Sky Sport FHD DE oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19041/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SkyTest",dazn1
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19042/index.m3u
-#EXTINF:0  group-title="SkyTest",Dazn 1 HD oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19042/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SkyTest",dazn2
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19043/index.m3u
-#EXTINF:0  group-title="SkyTest",Dazn 2 HD oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19043/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SkyTest",sky f1
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19043/index.m3u
-#EXTINF:0  group-title="SkyTest",Sky Sport F1 FHD DE oacc
+#EXTINF:0  group-title="SkyTest",Sky Sport F1 FHD DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/10079/index.m3u8
-#EXTINF:0  group-title="SkyTest",sky one HD DE oacc
+#EXTINF:0  group-title="SkyTest",sky one HD DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19000/index.m3u8
-#EXTINF:0 group-title="SkyTest",sky Crime HD oacc
+#EXTINF:0 group-title="SkyTest",sky Crime HD
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19001/index.m3u8
-#EXTINF:0  group-title="SkyTest",sky Comedy HD DE oacc
+#EXTINF:0  group-title="SkyTest",sky Comedy HD DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19002/index.m3u8
-#EXTINF:0 tvg-rec="0",sky Serien & Shows HD DE oacc
+#EXTINF:0 tvg-rec="0",sky Serien & Shows HD DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19003/index.m3u8
-#EXTINF:0 group-title="SkyTest",sky Cinema Thriller HD DE oacc
+#EXTINF:0 group-title="SkyTest",sky Cinema Thriller HD DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19004/index.m3u8
-#EXTINF:0 group-title="SkyTest",sky Cinema Classics HD DE oacc
+#EXTINF:0 group-title="SkyTest",sky Cinema Classics HD DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19005/index.m3u8
-#EXTINF:0 group-title="SkyTest",sky replay HD DE oacc
+#EXTINF:0 group-title="SkyTest",sky replay HD DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19006/index.m3u8
-#EXTINF: group-title="SkyTest",sky Serien & Shows DE oacc
+#EXTINF: group-title="SkyTest",sky Serien & Shows DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19007/index.m3u8
-#EXTINF:0 group-title="SkyTest",sky Cinema Family DE oacc
+#EXTINF:0 group-title="SkyTest",sky Cinema Family DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19008/index.m3u8
-#EXTINF:0 group-title="SkyTest",sky Atlantic DE oacc
+#EXTINF:0 group-title="SkyTest",sky Atlantic DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19009/index.m3u8
-#EXTINF: group-title="SkyTest",sky Cinema Fun DE oacc
+#EXTINF: group-title="SkyTest",sky Cinema Fun DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19010/index.m3u8
-#EXTINF: group-title="SkyTest",sky one DE oacc
+#EXTINF: group-title="SkyTest",sky one DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19011/index.m3u8
-#EXTINF: group-title="SkyTest",sky Comedy DE oacc
+#EXTINF: group-title="SkyTest",sky Comedy DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19012/index.m3u8
-#EXTINF: group-title="SkyTest",sky Cinema Special DE oacc
+#EXTINF: group-title="SkyTest",sky Cinema Special DE
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19013/index.m3u8
 #EXTINF: group-title="SkyTest",sky Cinema Premieren DE ORIG
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19014/index.m3u8
 #EXTINF: group-title="SkyTest",sky Cinema Premieren +24 DE oacc
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19015/index.m3u8
-#EXTINF: group-title="SkyTest",sky Cinema Action DE oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19016/index.m3u8
-#EXTINF: group-title="SkyTest",sky Cinema Classics DE oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19017/index.m3u8
-#EXTINF: group-title="SkyTest",sky Cinema Fun HD DE oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19018/index.m3u8
-#EXTINF: group-title="SkyTest",sky Krimi DE oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19019/index.m3u8
-#EXTINF: group-title="SkyTest",Sky Nature HD DE oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19020/index.m3u8
-#EXTINF: group-title="SkyTest",Sky Documentaries HD DE oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19021/index.m3u8
-#EXTINF: group-title="SkyTest",SKY SPORT MOTOGP
-http://d0cf70eb.rostelekom.xyz/iptv/PMRVKVATL4XX98/19133/index.m3u8
-#EXTINF: group-title="SkyTest",SKY cinema fun test
-http://d0cf70eb.rostelekom.xyz/iptv/PMRVKVATL4XX98/19018/index.m3u8
-#EXTINF: group-title="SkyTest",SKY cinema fun test orig
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.HD.de" group-title="SkyTest",sky Cinema Action DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19016/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.HD.de" group-title="SkyTest",sky Cinema Classics DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19017/index.m3u8
+#EXTINF: group-title="SkyTest",sky Cinema Fun HD DE
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19018/index.m3u8
-
-
+#EXTINF:-1 tvg-id="Sky.Krimi.de" group-title="SkyTest",sky Krimi DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19019/index.m3u8
+#EXTINF: -1 tvg-id="Sky.Nature.de" group-title="SkyTest",Sky Nature HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19020/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Documentaries.de" group-title="SkyTest",Sky Documentaries HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19021/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" group-title="SkyTest",SKY cinema fun test orig
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19018/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SkyTest",Sky Moto GP IT
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19133/index.m3u
-#EXTINF: group-title="SkyTest",sky Cinema Premieren DE ORIG
+#EXTINF:-1 tvg-id="Sky.Cinema.Premiere.HD.de" group-title="SkyTest",sky Cinema Premieren DE
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19014/index.m3u8
-
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="SkyTest",4 (UK)
-https://a1xs.vip/2000004
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="SkyTest",5 (UK)
-https://a1xs.vip/2000005
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="SkyTest",6 (UK)
-https://a1xs.vip/2000006
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="SkyTest",7 (UK)
-https://a1xs.vip/2000007
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="SkyTest",8 (UK)
-https://a1xs.vip/200000
 
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
@@ -1588,8 +1223,6 @@ https://dash4.antik.sk/live/test_kabel1_doku_tizen/playlist.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/kabeleinsdocu/browser-dash/kabeleinsdocu.mpd
 #EXTINF:-1 tvg-id="ITV1.ch" tvg-logo="https://picserve.netplus.ch/channels/itv.png" group-title="off",itv1?
 https://viamotionhsi.netplus.ch/live/eds/itv/browser-HLS8/itv.m3u8
-#EXTINF:-1 tvg-id="" group-title="off",ESPN Deportes
-https://tvpass.org/live/espn-deportes/hd
 #EXTINF:-1 tvg-id="" group-title="off",TSN1
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="" group-title="off",TSN2
