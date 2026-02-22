@@ -1569,6 +1569,17 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19133/index.m3u
 #EXTINF: group-title="SkyTest",sky Cinema Premieren DE ORIG
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19014/index.m3u8
 
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="SkyTest",4 (UK)
+https://a1xs.vip/2000004
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="SkyTest",5 (UK)
+https://a1xs.vip/2000005
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="SkyTest",6 (UK)
+https://a1xs.vip/2000006
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="SkyTest",7 (UK)
+https://a1xs.vip/2000007
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="SkyTest",8 (UK)
+https://a1xs.vip/200000
+
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-dash/prosiebenmaxx.mpd
