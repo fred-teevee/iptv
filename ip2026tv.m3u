@@ -276,10 +276,20 @@ https://tvpass.org/live/FoxSports1/hd
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="NBC.Sports.Now.us2" group-title="Sport",NBC Sports NOW (US)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 tvg-id="Hub.Sports.1.HD.sg" group-title="Sport",HUB Sport 1 (SG)
+https://hls.iill.top/api/Hub-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Sports.2.HD.sg" group-title="Sport",HUB Sport 2 (SG)
+https://hls.iill.top/api/Hub-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Sports.3.HD.sg" group-title="Sport",HUB Sport 3 (SG)
+https://hls.iill.top/api/Hub-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Sports.4.HD.sg" group-title="Sport",HUB Sport 4 (SG)
+https://hls.iill.top/api/Hub-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="Hub.Sports.5.HD.sg" group-title="Sport",HUB Sport 5 (SG)
+https://hls.iill.top/api/Hub-Sports-5/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="Sport",HUB Premier 1 (SG)
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" group-title="Sport",HUB Premier 2 (SG)
-HUB Premier 2,https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" group-title="Sport",HUB Premier 3 (SG)
 https://hls.iill.top/api/Hub-Premier-3/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="Sport",HUB Premier 4 (SG)
@@ -298,26 +308,16 @@ https://hls.iill.top/api/Hub-Premier-9/index.m3u8
 https://hls.iill.top/api/Hub-Premier-10/index.m3u8
 #EXTINF:-1 tvg-id="Hub.Premier.11.sg" group-title="Sport",HUB Premier 11 (SG)
 https://hls.iill.top/api/Hub-Premier-11/index.m3u8
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Sport",HUB Sport 1 (SG)
-https://hls.iill.top/api/Hub-Sports-1/index.m3u8
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Sport",HUB Sport 2 (SG)
-https://hls.iill.top/api/Hub-Sports-2/index.m3u8
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Sport",HUB Sport 3 (SG)
-https://hls.iill.top/api/Hub-Sports-3/index.m3u8
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Sport",HUB Sport 4 (SG)
-https://hls.iill.top/api/Hub-Sports-4/index.m3u8
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Sport",HUB Sport 5 (SG)
-https://hls.iill.top/api/Hub-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV.(HD).sg" group-title="Sport",SpoTV 1 (SG)
+https://hls.iill.top/api/Spotv-1/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV.2.(HD).sg" group-title="Sport",SpoTV 2 (SG)
+https://hls.iill.top/api/Spotv-2/index.m3u8
 #EXTINF:-1 tvg-id="Fight.Sports.(HD).sg" group-title="Sport",Fight Sports (SG)
 https://hls.iill.top/api/Fight-Sports/index.m3u8
-#EXTINF:-1 tvg-id="SPOTV.(HD).sg" group-title="Sport",SpoTV 1 (SG)
-Spotv 1,https://hls.iill.top/api/Spotv-1/index.m3u8
-#EXTINF:-1 tvg-id="SPOTV.2.(HD).sg" group-title="Sport",SpoTV 2 (SG)
-Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT.(HD).1.sg" group-title="Sport",Eurosport 1 (SG)
-Eurosport 1,https://hls.iill.top/api/Eurosport-1/index.m3u8
+https://hls.iill.top/api/Eurosport-1/index.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT.(HD).2.sg" group-title="Sport",Eurosport 2 (SG)
-Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
+https://hls.iill.top/api/Eurosport-2/index.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.(HD).sg" group-title="Sport",beIN Sports 1 (SG)
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.(HD).sg" group-title="Sport",beIN Sports 2 (SG)
