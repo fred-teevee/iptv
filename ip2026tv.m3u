@@ -1481,7 +1481,7 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2599/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2600/index.m3u
 
 #EXTINF:-1 tvg-id="" group-title="SkyTest",Sky Moto GP IT
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19132/index.m3u
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19133/index.m3u
 #EXTINF:-1 tvg-id="" group-title="SkyTest",Sky Moto GP IT (other Acc)
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19132/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="SkyTest",Sky Sport 1 fhd
@@ -1540,8 +1540,8 @@ http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19011/index.m3u8
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19012/index.m3u8
 #EXTINF: group-title="SkyTest",sky Cinema Special DE oacc
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19013/index.m3u8
-#EXTINF: group-title="SkyTest",sky Cinema Premieren DE oacc
-http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19014/index.m3u8
+#EXTINF: group-title="SkyTest",sky Cinema Premieren DE ORIG
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19014/index.m3u8
 #EXTINF: group-title="SkyTest",sky Cinema Premieren +24 DE oacc
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19015/index.m3u8
 #EXTINF: group-title="SkyTest",sky Cinema Action DE oacc
@@ -1562,6 +1562,12 @@ http://d0cf70eb.rostelekom.xyz/iptv/PMRVKVATL4XX98/19133/index.m3u8
 http://d0cf70eb.rostelekom.xyz/iptv/PMRVKVATL4XX98/19018/index.m3u8
 #EXTINF: group-title="SkyTest",SKY cinema fun test orig
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19018/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="SkyTest",Sky Moto GP IT
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19133/index.m3u
+#EXTINF: group-title="SkyTest",sky Cinema Premieren DE ORIG
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19014/index.m3u8
 
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
