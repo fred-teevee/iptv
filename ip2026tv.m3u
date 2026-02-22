@@ -1480,6 +1480,83 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2599/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",2600
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2600/index.m3u
 
+#EXTINF:-1 tvg-id="" group-title="SkyTest",Sky Moto GP IT
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19132/index.m3u
+#EXTINF:-1 tvg-id="" group-title="SkyTest",Sky Moto GP IT (other Acc)
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19132/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SkyTest",Sky Sport 1 fhd
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19027/index.m3u
+#EXTINF:0  group-title="SkyTest",sky Sport 1 FHD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19027/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SkyTest",Sky sport 1
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19028/index.m3u
+#EXTINF:0  group-title="SkyTest",sky Sport 1 DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19028/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SkyTest",eur sport 2
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19040/index.m3u
+#EXTINF:0  group-title="SkyTest",Eurosport360 2 HD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19040/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SkyTest",Sky sport
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19041/index.m3u
+#EXTINF:0  group-title="SkyTest",Sky Sport FHD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19041/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SkyTest",dazn1
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19042/index.m3u
+#EXTINF:0  group-title="SkyTest",Dazn 1 HD oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19042/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SkyTest",dazn2
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19043/index.m3u
+#EXTINF:0  group-title="SkyTest",Dazn 2 HD oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19043/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="SkyTest",sky f1
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19043/index.m3u
+#EXTINF:0  group-title="SkyTest",Sky Sport F1 FHD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/10079/index.m3u8
+#EXTINF:0 tvg-rec="0",sky one HD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19000/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Crime HD oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19001/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Comedy HD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19002/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Serien & Shows HD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19003/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Cinema Thriller HD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19004/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Cinema Classics HD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19005/index.m3u8
+#EXTINF:0 tvg-rec="0",sky replay HD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19006/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Serien & Shows DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19007/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Cinema Family DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19008/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Atlantic DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19009/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Cinema Fun DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19010/index.m3u8
+#EXTINF:0 tvg-rec="0",sky one DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19011/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Comedy DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19012/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Cinema Special DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19013/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Cinema Premieren DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19014/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Cinema Premieren +24 DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19015/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Cinema Action DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19016/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Cinema Classics DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19017/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Cinema Fun HD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19018/index.m3u8
+#EXTINF:0 tvg-rec="0",sky Krimi DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19019/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Nature HD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19020/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Documentaries HD DE oacc
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/19021/index.m3u8
+
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-dash/prosiebenmaxx.mpd
