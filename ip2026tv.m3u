@@ -220,6 +220,8 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-id="DE:.Travelxp.be" group-title="News & Dokus",Travelxp D
 https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.(HD).sg" group-title="News & Dokus",Discovery Channel (SG)
+https://hls.iill.top/api/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" group-title="News & Dokus",Animal Planet (US)
 https://tvpass.org/live/AnimalPlanetEast/hd
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" group-title="News & Dokus",Discovery Life (US)
@@ -681,12 +683,18 @@ https://tvpass.org/live/FXEast/hd
 https://tvpass.org/live/FXXEast/hd
 #EXTINF:-1 tvg-id="HBO.East.us2" group-title="USA",HBO (US)
 https://tvpass.org/live/HBOEast/hd
+#EXTINF:-1 tvg-id="HBO.HD.sg" group-title="USA",HBO (SG)
+https://hls.iill.top/api/HBO-Family/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.HD.us2" group-title="USA",HBO 2 (US)
 https://tvpass.org/live/HBO2East/hd
 #EXTINF:-1 tvg-id="HBO.Signature.HD.us2" group-title="USA",HBO Signature (US)
 https://tvpass.org/live/HBOSignatureEast/hd
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" group-title="USA",HBO Comedy (US)
 https://tvpass.org/live/HBOComedyEast/hd
+#EXTINF:-1 tvg-id="HBO.Family.(HD).sg" group-title="USA",HBO Comedy (US)
+https://hls.iill.top/api/HBO-Family/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Hits.(HD).sg" group-title="USA",HBO Comedy (US)
+https://hls.iill.top/api/HBO-Hits/index.m3u8
 #EXTINF:-1 tvg-id="Showtime.Next.HD.us2" group-title="USA",Showtime (US)
 https://tvpass.org/live/ShowtimeEast/hd
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" group-title="USA",Showtime 2 (US)
