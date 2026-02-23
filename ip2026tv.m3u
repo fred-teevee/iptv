@@ -669,6 +669,8 @@ https://tvpass.org/live/BCWorldNewsNorthAmerica/hd
 https://tvpass.org/live/BETEast/hd
 #EXTINF:-1 tvg-id="BET.Her.us2" group-title="USA",BET Her (US)
 https://tvpass.org/live/BETHerEast/hd
+#EXTINF:-1 tvg-id="" group-title="USA",Big Ten Network (US)
+https://tvpass.org/live/BTN/hd
 #EXTINF:-1 tvg-id="Bravo.HD.us2" group-title="USA",Bravo (US)
 https://tvpass.org/live/BravoEast/hd
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" group-title="USA",Disney (US)
@@ -703,6 +705,7 @@ https://tvpass.org/live/ShowtimeEast/hd
 https://tvpass.org/live/Showtime2East/hd
 #EXTINF:-1 tvg-id="TNT.HD.us2" group-title="USA",TNT (US)
 https://tvpass.org/live/TNTEast/hd
+
 
 #EXTINF:-1 tvg-id="BBC.One.ch"tvg-logo="https://picserve.netplus.ch/channels/bbc1.png" group-title="UK",BBC ONE
 https://a1xs.vip/1000002
