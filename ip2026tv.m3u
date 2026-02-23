@@ -270,6 +270,8 @@ https://tvpass.org/live/ESPN/hd
 https://tvpass.org/live/ESPNU/hd
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="Sport",ESPN 2 (US)
 https://tvpass.org/live/ESPN2/hd
+#EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" group-title="Sport",ESPN Deportes (US)
+https://tvpass.org/live/espn-deportes/hd
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="Sport",USA Network (US)
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="Sport",Fox Sports 1 (US)
