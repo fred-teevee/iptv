@@ -274,16 +274,6 @@ https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 #EXTINF:-1 tvg-name="DF1 HD" tvg-id="DF1.ch" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png",DF1
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="Sport",TNT SPORTS 1 HD
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19051/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="Sport",TNT SPORTS 2 HD
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19052/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="Sport",TNT SPORTS 3 HD
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19053/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="Sport",TNT SPORTS 4 HD
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19054/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.6.HD.uk" group-title="Sport",TNT SPORTS 6 HD
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19055/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" group-title="Sport",Sky Sports F1 (UK)
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
 #EXTINF:-1 tvg-id="SkySp.Action.uk" group-title="Sport",Sky Sports Action (UK)
@@ -1216,12 +1206,18 @@ https://rbtvlive.cdn.tele2portal.com/live/NPO1/NPO1.isml/.m3u8
 https://rbtvlive.cdn.tele2portal.com/live/NPO2/NPO2.isml/.m3u8
 #EXTINF:-1 tvg-id="" group-title="testen",NPO 3 (NL)
 https://rbtvlive.cdn.tele2portal.com/live/NPO3/NPO3.isml/.m3u8
-#EXTINF:-1 tvg-id="" group-title="testen",SONY (UNBEKANNT)
-SONY,http://148.113.160.49:14205
-#EXTINF:-1 tvg-id="" group-title="testen",SONY (UNBEKANNT)
-SONY,http://148.113.160.49:14204
 #EXTINF:-1 tvg-id="" group-title="testen",Rausfinden
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2509/index.m3u
+#EXTINF:-1 tvg-id="" group-title="testen",TNT SPORTS 1 HD (FR?)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19051/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="testen",TNT SPORTS 2 HD (FR?)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19052/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="testen",TNT SPORTS 3 HD (FR?)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19053/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="testen",TNT SPORTS 4 HD (FR?)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19054/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="testen",TNT SPORTS 6 HD (FR?)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19055/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="testen",TNT Sports 1 (?)
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2505/index.m3u
 #EXTINF:-1 tvg-id="" group-title="testen",TNT Sports 2 (?)
