@@ -1223,6 +1223,9 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19133/index.m3u
 #EXTINF:-1 tvg-id="Sky.Cinema.Premiere.HD.de" group-title="SkyTest",sky Cinema Premieren DE
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19014/index.m3u8
 
+#EXTINF:0 tvg-rec="7"tvg-id="Sky.Sport.F1.de" group-title="SkyTest" ,Sky Sport F1 FHD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/0079/index.m3u8
+
 #EXTINF:-1 tvg-id="ProSieben.MAXX.ch" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png" group-title="off",7MAXX ?
 https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-dash/prosiebenmaxx.mpd
