@@ -1171,9 +1171,43 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19053/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19054/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="testen",TNT SPORTS 6 HD
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19055/index.m3u8
-#EXTINF:0 tvg-rec="7",WWE Russian
+#EXTINF:0 tvg-rec="7" group-title="testen",WWE Russian
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/11056/index.m3u8
 
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Cinema Action HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2482/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Cinema Fun DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2483/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Cinema HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2484/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Cinema Special HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2485/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Atlantic HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2488/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Cinema Family HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2489/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Cinema Nostalgie DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2490/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Krimi DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2491/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Arts HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2494/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Hits HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2486/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Sport Austria 2 DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6113/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Sport Bundesliga 9 DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6097/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Sport News HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2477/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Sport 1 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2478/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Sport 2 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2479/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Sport Bundesliga 1 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2480/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="SkyTest",Sky Sport Austria 1 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2492/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="SkyTest",Sky Sport Bundesliga 2 HD DE
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7234/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="SkyTest",Sky Sport Bundesliga 3 HD DE
