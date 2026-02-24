@@ -145,9 +145,9 @@ http://148.113.160.49:14214/
 http://148.113.160.49:14214/
 #EXTINF:-1,14400-14442 KEIN PROGRAMM
 http://148.113.160.49:14443/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Sport TV ? (PT)
+#EXTINF:-1 tvg-id="Sport.TV.6.HD.pt" tvg-logo="" group-title="Sport",Sport TV 6 HD (PT)
 http://148.113.160.49:14443/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Sport TV ? (PT)
+#EXTINF:-1 tvg-id="Sport.TV.6.HD.pt" tvg-logo="" group-title="Sport",Sport TV 6 FHD (PT)
 http://148.113.160.49:14444/
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="" group-title="Sport",Sport TV 5 SD (PT)
 http://148.113.160.49:14445/
