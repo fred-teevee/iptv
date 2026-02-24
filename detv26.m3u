@@ -287,6 +287,16 @@ https://hls.iill.top/api/beIN-Sports-3/index.m3u8
 https://hls.iill.top/api/beIN-Sports-4/index.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.(HD).sg" group-title="Sport (InOff.)",beIN Sports 5 (SG)
 https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sport (Off.)",TSN1
+https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 tvg-id="" group-title="Sport (Off.)",TSN2
+https://tvpass.org/live/tsn2/hd
+#EXTINF:-1 tvg-id="" group-title="Sport (Off.)",TSN3
+https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 tvg-id="" group-title="Sport (Off.)",TSN4
+https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 tvg-id="" group-title="Sport (Off.)",TSN5
+https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-id="" group-title="Sport (InOff.)",TSN1 (CA)
 https://7pal.short.gy/tsn1ca
 #EXTINF:-1 tvg-id="" group-title="Sport (InOff.)",TSN2 (CA)
