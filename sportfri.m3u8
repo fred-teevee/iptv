@@ -37,7 +37,7 @@ http://secour.xyz:8080/3143128799337794/8323293829/396100
 http://secour.xyz:8080/3143128799337794/8323293829/396076
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" group-title="Sportfrei",DAZN 2 HD
 http://secour.xyz:8080/3143128799337794/8323293829/396075
-#EXTINF:-1 tvg-id="" tvg-name="Blue Action" group-title="Sportfrei",Blue Action CH
+#EXTINF:-1 tvg-id="blue.Action.ch" tvg-name="Blue Action" group-title="Sportfrei",Blue Action CH
 http://secour.xyz:8080/3143128799337794/8323293829/397826
 #EXTINF:-1 tvg-id="" tvg-name="SKY SELECT PREMIERE 1 FHD" group-title="Sportfrei",SKY SELECT PREMIERE 1 FHD
 http://secour.xyz:8080/3143128799337794/8323293829/396141
@@ -89,9 +89,9 @@ http://secour.xyz:8080/3143128799337794/8323293829/396082
 http://secour.xyz:8080/3143128799337794/8323293829/396081
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 10 HD (SPIELZEIT)" group-title="Sportfrei",SKY SPORT BUNDESLIGA 10 HD (SPIELZEIT)
 http://secour.xyz:8080/3143128799337794/8323293829/396080
-#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 1" group-title="Sportfrei",Blue Sport 1
+#EXTINF:-1 tvg-id="blue.Sport.D.1.ch" tvg-name="Blue Sport 1" group-title="Sportfrei",Blue Sport 1
 http://secour.xyz:8080/3143128799337794/8323293829/397796
-#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 2" group-title="Sportfrei",Blue Sport 2
+#EXTINF:-1 tvg-id="blue.Sport.D.2.ch" tvg-name="Blue Sport 2" group-title="Sportfrei",Blue Sport 2
 http://secour.xyz:8080/3143128799337794/8323293829/397795
 #EXTINF:-1 tvg-id="" tvg-name="MY Sports 1 HD" group-title="Sportfrei",MY Sports 1 HD
 http://secour.xyz:8080/3143128799337794/8323293829/397794
