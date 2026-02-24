@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" group-title="Sportfrei",Sky Sports F1 (UK)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
+#EXTINF:-1 tvg-id="SkySp.Action.uk" group-title="Sportfrei",Sky Sports Action (UK)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2194.ts
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Sportfrei",Sky Sports Football (UK)
+https://a1xs.vip/2000003
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" group-title="Sportfrei",Sky Sports Mix (UK)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2180.ts
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" group-title="Sportfrei",Sky Sports Main Event (UK)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2185.ts
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" group-title="Sportfrei",Sky Sports Premiere League (UK)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2182.ts
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" group-title="Sportfrei",Sky Sport News (UK)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2183.ts
+#EXTINF:-1 tvg-id="" group-title="Sportfrei",Sky Sport MotoGP (IT)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19133/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="Sportfrei",TNT SPORT 1 FHD UK
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="Sportfrei",TNT SPORT 2 FHD UK
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="Sportfrei",TNT SPORT 3 FHD UK
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sportfrei",Sportsnet one (CA)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
+#EXTINF:-1 tvg-id="" group-title="Sportfrei",Sportsnet 360 (CA)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3073.ts
+#EXTINF:-1 tvg-id="" group-title="Sportfrei",Sportsnet World (CA)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88060.ts
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1 FHD" group-title="Sportfrei",SKY SPORT F1 FHD
 http://secour.xyz:8080/3143128799337794/8323293829/396145
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 1 FHD" group-title="Sportfrei",SKY SPORT BUNDESLIGA 1 FHD
