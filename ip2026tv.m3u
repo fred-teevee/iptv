@@ -203,7 +203,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="" group-title="Kidz",LEGO Kids TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c45d659e-c2e5-4651-b57b-9e285779521e
 
-
 #EXTINF:-1 tvg-id="WELT.ch" tvg-logo="https://picserve.netplus.ch/channels/n24.png" group-title="News & Dokus",WELT
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/n24/browser-dash/n24.mpd
@@ -288,6 +287,14 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2185.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2182.ts
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" group-title="Sport",Sky Sport News (UK)
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2183.ts
+#EXTINF:-1 tvg-id="" group-title="Sport",Sky Sport MotoGP (IT)
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19133/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="Sport",TNT SPORT 1 FHD UK
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="Sport",TNT SPORT 2 FHD UK
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="Sport",TNT SPORT 3 FHD UK
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sport",Sportsnet one (CA)
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
 #EXTINF:-1 tvg-id="" group-title="Sport",Sportsnet 360 (CA)
@@ -787,8 +794,6 @@ https://hls.iill.top/api/HBO-Hits/index.m3u8
 https://tvpass.org/live/HBOZoneEast/hd
 #EXTINF:-1 tvg-id="" group-title="USA",HBO + (pan-US)
 http://148.113.160.49:14194
-#EXTINF:-1 tvg-id="" group-title="USA",HBO mundi (pan-US)
-http://148.113.160.49:14185
 #EXTINF:-1 tvg-id="" group-title="USA",HBO pop (pan-US)
 http://148.113.160.49:14182
 #EXTINF:-1 tvg-id="" group-title="USA",HBO Xtreme (pan-US)
