@@ -145,37 +145,37 @@ http://148.113.160.49:14214/
 http://148.113.160.49:14214/
 #EXTINF:-1,14400-14442 KEIN PROGRAMM
 http://148.113.160.49:14443/
-#EXTINF:-1,Sport TV ? (PT)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Sport TV ? (PT)
 http://148.113.160.49:14443/
-#EXTINF:-1,Sport TV ? (PT)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Sport TV ? (PT)
 http://148.113.160.49:14444/
-#EXTINF:-1,Sport TV 5 SD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="" group-title="Sport",Sport TV 5 SD (PT)
 http://148.113.160.49:14445/
-#EXTINF:-1,Sport TV 5 HD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="" group-title="Sport",Sport TV 5 HD (PT)
 http://148.113.160.49:14446/
-#EXTINF:-1,Sport TV 5 FHD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="" group-title="Sport",Sport TV 5 FHD (PT)
 http://148.113.160.49:14447/
-#EXTINF:-1,Sport TV 4 SD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-logo="" group-title="Sport",Sport TV 4 SD (PT)
 http://148.113.160.49:14448/
-#EXTINF:-1,Sport TV 4 HD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-logo="" group-title="Sport",Sport TV 4 HD (PT)
 http://148.113.160.49:14449/
-#EXTINF:-1,Sport TV 4 FHD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-logo="" group-title="Sport",Sport TV 4 FHD (PT)
 http://148.113.160.49:14450/
-#EXTINF:-1,Sport TV 3 SD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-logo="" group-title="Sport",Sport TV 3 SD (PT)
 http://148.113.160.49:14451/
-#EXTINF:-1,Sport TV 3 HD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-logo="" group-title="Sport",Sport TV 3 HD (PT)
 http://148.113.160.49:14452/
-#EXTINF:-1,Sport TV 3 FHD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-logo="" group-title="Sport",Sport TV 3 FHD (PT)
 http://148.113.160.49:14453/
-#EXTINF:-1,Sport TV 2 HD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-logo="" group-title="Sport",Sport TV 2 HD (PT)
 http://148.113.160.49:14454/
-#EXTINF:-1,Sport TV 2 FHD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-logo="" group-title="Sport",Sport TV 2 FHD (PT)
 http://148.113.160.49:14455/
-#EXTINF:-1,Sport TV 1 SD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="" group-title="Sport",Sport TV 1 SD (PT)
 http://148.113.160.49:14456/
-#EXTINF:-1,Sport TV 1 (PT)
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="" group-title="Sport",Sport TV 1 (PT)
 http://148.113.160.49:14458/
-#EXTINF:-1,Sport TV + (PT)
+#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="" group-title="Sport",Sport TV + (PT)
 http://148.113.160.49:14460/
 #EXTINF:-1,Kein Programm SD
 http://148.113.160.49:14461/
@@ -183,33 +183,33 @@ http://148.113.160.49:14461/
 http://148.113.160.49:14462/
 #EXTINF:-1,Kein Programm FHD
 http://148.113.160.49:14463/
-#EXTINF:-1,DAZN 5 SD (PT)
+#EXTINF:-1 tvg-id="DAZN.5.pt" tvg-logo="" group-title="Sport",DAZN 5 SD (PT)
 http://148.113.160.49:14464/
-#EXTINF:-1,DAZN 5 HD (PT)
+#EXTINF:-1 tvg-id="DAZN.5.pt" tvg-logo="" group-title="Sport",DAZN 5 HD (PT)
 http://148.113.160.49:14465/
-#EXTINF:-1,DAZN 5 FHD (PT)
+#EXTINF:-1 tvg-id="DAZN.5.pt" tvg-logo="" group-title="Sport",DAZN 5 FHD (PT)
 http://148.113.160.49:14466/
-#EXTINF:-1,DAZN 4 HD (PT)
+#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-logo="" group-title="Sport",DAZN 4 HD (PT)
 http://148.113.160.49:14467/
-#EXTINF:-1,DAZN 4 FHD (PT)
+#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-logo="" group-title="Sport",DAZN 4 FHD (PT)
 http://148.113.160.49:14468/
-#EXTINF:-1,DAZN 3 SD (PT)
+#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-logo="" group-title="Sport",DAZN 3 SD (PT)
 http://148.113.160.49:14469/
-#EXTINF:-1,DAZN 3 HD (PT)
+#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-logo="" group-title="Sport",DAZN 3 HD (PT)
 http://148.113.160.49:14470/
-#EXTINF:-1,DAZN 3 FHD (PT)
+#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-logo="" group-title="Sport",DAZN 3 FHD (PT)
 http://148.113.160.49:14471/
-#EXTINF:-1,DAZN 2 SD (PT)
+#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-logo="" group-title="Sport",DAZN 2 SD (PT)
 http://148.113.160.49:14472/
-#EXTINF:-1,DAZN 2 HD (PT)
+#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-logo="" group-title="Sport",DAZN 2 HD (PT)
 http://148.113.160.49:14473/
-#EXTINF:-1,DAZN 2 FHD (PT)
+#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-logo="" group-title="Sport",DAZN 2 FHD (PT)
 http://148.113.160.49:14474/
-#EXTINF:-1,DAZN 1 SD (PT)
+#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-logo="" group-title="Sport",DAZN 1 SD (PT)
 http://148.113.160.49:14475/
-#EXTINF:-1,DAZN 1 HD (PT)
+#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-logo="" group-title="Sport",DAZN 1 HD (PT)
 http://148.113.160.49:14476/
-#EXTINF:-1,DAZN 1 FHD (PT)
+#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-logo="" group-title="Sport",DAZN 1 FHD (PT)
 http://148.113.160.49:14477/
 #EXTINF:-1,14478-14510 KEIN PROGRAMM
 http://148.113.160.49:14477/
