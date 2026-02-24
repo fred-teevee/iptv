@@ -339,32 +339,3 @@ https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DE:.XITE.be" group-title="Musik",XITE
 https://xite-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" group-title="Acc.",Sky Sports F1 (UK)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
-#EXTINF:-1 tvg-id="SkySp.Action.uk" group-title="Acc.",Sky Sports Action (UK)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2194.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Acc.",Sky Sports Football (UK)
-https://a1xs.vip/2000003
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" group-title="Acc.",Sky Sports Mix (UK)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2180.ts
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" group-title="Acc.",Sky Sports Main Event (UK)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2185.ts
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" group-title="Acc.",Sky Sports Premiere League (UK)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2182.ts
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" group-title="Acc.",Sky Sport News (UK)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2183.ts
-#EXTINF:-1 tvg-id="" group-title="Acc.",Sky Sport MotoGP (IT)
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19133/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="Acc.",TNT SPORT 1 FHD UK
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="Acc.",TNT SPORT 2 FHD UK
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="Acc.",TNT SPORT 3 FHD UK
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Acc.",Sportsnet one (CA)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
-#EXTINF:-1 tvg-id="" group-title="Acc.",Sportsnet 360 (CA)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3073.ts
-#EXTINF:-1 tvg-id="" group-title="Acc.",Sportsnet World (CA)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88060.ts
