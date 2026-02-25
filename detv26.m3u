@@ -348,23 +348,23 @@ https://hls.iill.top/api/beIN-Sports-3/index.m3u8
 https://hls.iill.top/api/beIN-Sports-4/index.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.5.(HD).sg" group-title="Sport (InOff.)",beIN Sports 5 (SG)
 https://hls.iill.top/api/beIN-Sports-5/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sport",TSN1
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Sport",TSN1
 https://tvpass.org/live/tsn1/hd
-#EXTINF:-1 tvg-id="" group-title="Sport",TSN2
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Sport",TSN2
 https://tvpass.org/live/tsn2/hd
-#EXTINF:-1 tvg-id="" group-title="Sport",TSN3
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Sport",TSN3
 https://tvpass.org/live/tsn3/hd
-#EXTINF:-1 tvg-id="" group-title="Sport",TSN4
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Sport",TSN4
 https://tvpass.org/live/tsn4/hd
-#EXTINF:-1 tvg-id="" group-title="Sport",TSN5
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Sport",TSN5
 https://tvpass.org/live/tsn5/hd
-#EXTINF:-1 tvg-id="" group-title="Sport (InOff.)",TSN1 (CA)
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Sport (InOff.)",TSN1 (CA)
 https://7pal.short.gy/tsn1ca
-#EXTINF:-1 tvg-id="" group-title="Sport (InOff.)",TSN2 (CA)
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Sport (InOff.)",TSN2 (CA)
 https://7pal.short.gy/tsn2ca
-#EXTINF:-1 tvg-id="" group-title="Sport (InOff.)",TSN3 (CA)
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Sport (InOff.)",TSN3 (CA)
 https://7pal.short.gy/tsn3ca
-#EXTINF:-1 tvg-id="" group-title="Sport (InOff.)",TSN4 (CA)
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Sport (InOff.)",TSN4 (CA)
 https://7pal.short.gy/tsn4ca
 #EXTINF:-1 tvg-id="" group-title="Sport",F1 Channel (US)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=64dd0ce3-1a0f-4d0c-8ee3-21d8032923bf
