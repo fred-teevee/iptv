@@ -219,21 +219,21 @@ https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/in
 https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="" group-title="Sport",Sport TV + FHD (PT)
 http://148.113.160.49:14460/
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="" group-title="Sport",Sport TV 1 HD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="" group-title="Sport",Sport TV 1 FHD (PT)
 http://148.113.160.49:14458/
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-logo="" group-title="Sport",Sport TV 2 FHD (PT)
 http://148.113.160.49:14455/
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-logo="" group-title="Sport",Sport TV 3 HD (PT)
 http://148.113.160.49:14453/
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-logo="" group-title="Sport",Sport TV 4 FHD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-logo="" group-title="Sport",Sport TV 4 HD (PT)
 http://148.113.160.49:14450/
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="" group-title="Sport",Sport TV 5 SD (PT)
 http://148.113.160.49:14447/
 #EXTINF:-1 tvg-id="Sport.TV.6.HD.pt" tvg-logo="" group-title="Sport",Sport TV 6 FHD (PT)
 http://148.113.160.49:14444/
-#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-logo="" group-title="Sport",DAZN 1 FHD (PT)
+#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-logo="" group-title="Sport",DAZN 1 HD (PT)
 http://148.113.160.49:14477/
-#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-logo="" group-title="Sport",DAZN 2 SD (PT)
+#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-logo="" group-title="Sport",DAZN 2 FHDD (PT)
 http://148.113.160.49:14474/
 #EXTINF:-1 tvg-id="DAZN.3.pt" tvg-logo="" group-title="Sport",DAZN 3 SD (PT)
 http://148.113.160.49:14471/
@@ -241,37 +241,37 @@ http://148.113.160.49:14471/
 http://148.113.160.49:14468/
 #EXTINF:-1 tvg-id="DAZN.5.pt" tvg-logo="" group-title="Sport",DAZN 5 FHD (PT)
 http://148.113.160.49:14466/
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 1 SD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 1 FHD (PT)
 http://148.113.160.49:14456/
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 2 SD (PT)
 http://148.113.160.49:14454/
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 3 SD (PT)
-http://148.113.160.49:14451/
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 3 HD (PT)
+http://148.113.160.49:14451/
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 3 FHD (PT)
 http://148.113.160.49:14452/
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 4 FHD (PT)
 http://148.113.160.49:14448/
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 4 HD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 4 FHD (PT)
 http://148.113.160.49:14449/
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 5 FHD (PT)
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 5 HD (PT)
 http://148.113.160.49:14445/
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 5 SD (PT)
 http://148.113.160.49:14446/
 #EXTINF:-1 tvg-id="Sport.TV.6.HD.pt" tvg-logo="" group-title="Sport BackUp",Sport TV 6 FHD (PT)
 http://148.113.160.49:14443/
-#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-logo="" group-title="Sport BackUp",DAZN 1 SD (PT)
-http://148.113.160.49:14475/
 #EXTINF:-1 tvg-id="DAZN.1.pt" tvg-logo="" group-title="Sport BackUp",DAZN 1 HD (PT)
+http://148.113.160.49:14475/
+#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-logo="" group-title="Sport BackUp",DAZN 1 FHD (PT)
 http://148.113.160.49:14476/
 #EXTINF:-1 tvg-id="DAZN.2.pt" tvg-logo="" group-title="Sport BackUp",DAZN 2 FHD (PT)
 http://148.113.160.49:14472/
-#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-logo="" group-title="Sport BackUp",DAZN 2 HD (PT)
+#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-logo="" group-title="Sport BackUp",DAZN 2 SD (PT)
 http://148.113.160.49:14473/
 #EXTINF:-1 tvg-id="DAZN.3.pt" tvg-logo="" group-title="Sport BackUp",DAZN 3 FHD (PT)
 http://148.113.160.49:14469/
 #EXTINF:-1 tvg-id="DAZN.3.pt" tvg-logo="" group-title="Sport BackUp",DAZN 3 SD (PT)
 http://148.113.160.49:14470/
-#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-logo="" group-title="Sport BackUp",DAZN 4 HD (PT)
+#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-logo="" group-title="Sport BackUp",DAZN 4 FHD (PT)
 http://148.113.160.49:14467/
 #EXTINF:-1 tvg-id="DAZN.5.pt" tvg-logo="" group-title="Sport BackUp",DAZN 5 FHD (PT)
 http://148.113.160.49:14464/
