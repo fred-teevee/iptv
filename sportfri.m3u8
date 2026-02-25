@@ -21,11 +21,11 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="Sportfrei",TNT SPORT 3 FHD UK
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sportfrei",Sportsnet one (CA)
+#EXTINF:-1 tvg-id="Sportsnet.One.ca2" group-title="Sportfrei",Sportsnet one (CA)
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
-#EXTINF:-1 tvg-id="" group-title="Sportfrei",Sportsnet 360 (CA)
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="Sportfrei",Sportsnet 360 (CA)
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3073.ts
-#EXTINF:-1 tvg-id="" group-title="Sportfrei",Sportsnet World (CA)
+#EXTINF:-1 tvg-id="Sportsnet.World.ca2" group-title="Sportfrei",Sportsnet World (CA)
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88060.ts
 #EXTINF:-1 tvg-id="Sky.Sport.F1.de" tvg-name="SKY SPORT F1 FHD" group-title="Sportfrei",SKY SPORT F1 FHD
 http://secour.xyz:8080/3143128799337794/8323293829/396145
