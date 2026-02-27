@@ -8,12 +8,18 @@ https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 #EXTINF:-1 tvg-id="SRF.1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf1.png" group-title="Hauptsender",SRF1
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+#EXTINF:-1 tvg-id="SRF.1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf1.png" group-title="Hauptsender",SRF1 BackUp
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=2450&extension=ts
 #EXTINF:-1 tvg-id="SRF.zwei.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png" group-title="Hauptsender",SRF2
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+#EXTINF:-1 tvg-id="SRF.zwei.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png" group-title="Hauptsender",SRF2 BackUp
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=2448&extension=ts
 #EXTINF:-1 tvg-id="SRF.info.ch" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png" group-title="Hauptsender",SRF info
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+#EXTINF:-1 tvg-id="SRF.info.ch" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png" group-title="Hauptsender",SRF info BackUp
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=2448&extension=ts
 #EXTINF:-1 tvg-id="ORF.1.ch" tvg-logo="https://picserve.netplus.ch/channels/orf1.png" group-title="Hauptsender",ORF1
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
