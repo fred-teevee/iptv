@@ -1,23 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2",A&E East
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" group-title="USA",A&E (US)
 https://tvpass.org/live/AEEast/hd
-#EXTINF:-1 tvg-id="",KCBS-DT1 
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="",WABC-DT1
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="USA",ABC (KABC) Los Angeles (US)
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="USA",ABC (WABC) New York (US)
 https://tvpass.org/live/WABCDT1/hd
-#EXTINF:-1 tvg-id="ACC.Network.us2",ACC Network
+#EXTINF:-1 tvg-id="ACC.Network.us2" group-title="USA",ACC Network (US)
 https://tvpass.org/live/ACCNetwork/hd
-#EXTINF:-1 tvg-id="Altitude.Sports.us2",Altitude Sports Denver
+#EXTINF:-1 tvg-id="Altitude.Sports.us2" group-title="USA",Altitude Sports Denver (US)
 https://tvpass.org/live/altitude-sports-denver/hd
-#EXTINF:-1 tvg-id="AMC.HD.us2",AMC East
+#EXTINF:-1 tvg-id="AMC.HD.us2" group-title="USA",AMC (US)
 https://tvpass.org/live/AMCEast/hd
-#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2",American Hereos Channel
+#EXTREM http://148.113.160.49:14209
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" group-title="USA",American Hereos Channel (US)
 https://tvpass.org/live/AmericanHeroesChannel/hd
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2",Animal Planet East
-https://tvpass.org/live/AnimalPlanetEast/hd
-#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2",BBC America East
+#EXTINF:-1 tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2" group-title="USA",AWE (US)
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" group-title="USA",BBC America (US)
 https://tvpass.org/live/BBCAmericaEast/hd
-
+#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" group-title="USA",BBC News North America (US)
+https://tvpass.org/live/BCWorldNewsNorthAmerica/hd
+#EXTINF:-1 tvg-id="BET.HD.us2" group-title="USA",BET (US)
+https://tvpass.org/live/BETEast/hd
+#EXTINF:-1 tvg-id="BET.Her.us2" group-title="USA",BET Her (US)
+https://tvpass.org/live/BETHerEast/hd
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" group-title="USA",Big Ten Network (US)
+https://tvpass.org/live/BTN/hd
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" group-title="USA",Bloomberg TV (US)
+https://tvpass.org/live/BloombergTV/hd
+#EXTINF:-1 tvg-id="Boomerang.us2" group-title="USA",Boomerang (US)
+https://tvpass.org/live/Boomerang/hd
+#EXTINF:-1 tvg-id="Bravo.HD.us2" group-title="USA",Bravo (US)
+https://tvpass.org/live/BravoEast/hd
+#EXTINF:-1 tvg-id="CSPAN.us2" group-title="USA",C-SPAN (US)
+https://tvpass.org/live/CSPAN/hd
+#EXTINF:-1 tvg-id="CSPAN2.us2" group-title="USA",C-SPAN 2 (US)
+https://tvpass.org/live/CSPAN2/hd
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" group-title="USA",Cartoon Network (US)
+https://tvpass.org/live/CartoonNetworkEast/hd
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" group-title="USA",Cinemax (US)
+https://tvpass.org/live/CinemaxEast/hd
+#EXTINF:-1 tvg-id="CMT.HD.us2" group-title="USA",CMT (US)
+https://tvpass.org/live/CMTEast/hd
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" group-title="USA",Comedy Central (US)
+https://tvpass.org/live/ComedyCentralEast/hd
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" group-title="USA",Crime and Investigation (US)
+https://tvpass.org/live/CrimePlusInvestigation/hd
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" group-title="USA",Discovery Family (US)
+https://tvpass.org/live/DiscoveryFamily/hd
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" group-title="USA",Disney (US)
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" group-title="USA",Disney Junior (US)
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" group-title="USA",Disney XD (US)
+https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" group-title="USA",E Entertainment (US)
+https://tvpass.org/live/EEast/hd
+#EXTINF:-1 tvg-id="Freeform.HD.us2" group-title="USA",Freeform (US)
+https://tvpass.org/live/FreeformEast/hd
+#EXTINF:-1 tvg-id="Fuse.HD.us2" group-title="USA",FUSE TV (US)
+https://tvpass.org/live/FuseEast/hd
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" group-title="USA",FX Movie Channel (US)
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 tvg-id="FX.HD.us2" group-title="USA",FX Network (US)
+https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 tvg-id="FXX.HD.us2" group-title="USA",FXX (US)
+https://tvpass.org/live/FXXEast/hd
+#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" group-title="USA",FYI (US)
+https://tvpass.org/live/FYIEast/hd
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" group-title="USA",Gameshow Network (US)
+https://tvpass.org/live/game-show-network-east/hd
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" group-title="USA",Hallmark (US)
+https://tvpass.org/live/HallmarkChannelEast/hd
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" group-title="USA",Hallmark Family (US)
+https://tvpass.org/live/HallmarkDrama/hd
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" group-title="USA",Hallmark Mystery (US)
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="USA",HBO (US)
+https://tvpass.org/live/HBOEast/hd
 
 #EXTINF:-1 tvg-id="CSPAN2.us@SD",C-SPAN 2
 https://tvpass.org/live/CSPAN2/hd
