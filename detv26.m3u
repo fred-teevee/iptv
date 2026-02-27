@@ -470,35 +470,7 @@ https://smt.tzh911.de5.net/go_sportsplus/playlist.m3u8
 http://86.87.15.10:8004/play/a02f/index.m3u8
 #EXTINF:-1 group-title="Sport (InOff.)",Ziggo 2
 http://86.87.15.10:8004/play/a02b/index.m3u8
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Main" group-title="Sport (InOff.)",DF1 HD Neu
-https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport (InOff.)" tvg-logo="",DOKUSAT HD
-https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport (InOff.)" tvg-logo="",bildTV
-https://bild.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport (InOff.)" tvg-logo="",WackenTV
-http://streaming.magentamusik.de/csm/573871/magentamusik2/index.m3u8
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport (InOff.)" tvg-logo="",football-1-m3u
-http://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1670197583-0-0-4a7cf225505176ec3e943f0a07a3293f
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport (InOff.)" tvg-logo="",PRO7
-https://s6.hopslan.com/pro7q1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport (InOff.)" tvg-logo="https://i.imgur.com/1TKeTk3.png",RTL
-https://s6.hopslan.com/rtlq1/tracks-v1a1/mono.m3u8?token=886cc1073c26c8a8d37abae90a0acddf97698624-8114e4407c2a6411230467655a196ce1-1705892913-1705882113
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport (InOff.)" tvg-logo="https://i.imgur.com/mGttQGp.png",RTL2
-https://s6.hopslan.com/rtl2q1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport (InOff.)" tvg-logo="https://i.imgur.com/CCYdvsg.png",ntv
-https://s6.hopslan.com/ntvv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport (InOff.)" tvg-logo="https://i.imgur.com/jcyUpFx.png",SAT1
-https://s6.hopslan.com/sat1q1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport (InOff.)" tvg-logo="https://i.imgur.com/K0SNkO5.png",SAT1 Gold
-https://s6.hopslan.com/goldc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="GAC" tvg-id="" group-title="Sport (InOff.)" tvg-logo="https://i.imgur.com/2wZwmTV.png",N24 Welt
-https://s6.hopslan.com/n24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" group-title="Sport (InOff.)",ORF eins HD
-https://orf1.mdn.ors.at/out/u/orf1/q6a/manifest_6.m3u8
 
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Main" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="Deluxe.Music.ch" tvg-logo="https://picserve.netplus.ch/channels/deluxemusic.png" group-title="Musik", Deluxe Music
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
