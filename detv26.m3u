@@ -488,3 +488,308 @@ https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DE:.XITE.be" group-title="Musik",XITE
 https://xite-rakuten.amagi.tv/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" group-title="USA",A&E (US) (+)
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="USA",ABC (KABC) Los Angeles (US) (+)
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" group-title="USA",ABC (WABC) New York (US) (+)
+https://tvpass.org/live/WABCDT1/hd
+#EXTINF:-1 tvg-id="ACC.Network.us2" group-title="USA",ACC Network (US) (+)
+https://tvpass.org/live/ACCNetwork/hd
+#EXTINF:-1 tvg-id="Altitude.Sports.us2" group-title="USA",Altitude Sports Denver (US) (+)
+https://tvpass.org/live/altitude-sports-denver/hd
+#EXTINF:-1 tvg-id="AMC.HD.us2" group-title="USA",AMC (US) (+)
+https://tvpass.org/live/AMCEast/hd
+#EXTREM http://148.113.160.49:14209
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" group-title="USA",American Hereos Channel (US) (+)
+https://tvpass.org/live/AmericanHeroesChannel/hd
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" group-title="USA",Animal Planet (US) (+)
+https://tvpass.org/live/AnimalPlanetEast/hd
+#EXTINF:-1 tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2" group-title="USA",AWE (US) (+)
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" group-title="USA",BBC America (US) (+)
+https://tvpass.org/live/BBCAmericaEast/hd
+#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" group-title="USA",BBC News North America (US) (+)
+https://tvpass.org/live/BCWorldNewsNorthAmerica/hd
+#EXTINF:-1 tvg-id="BET.HD.us2" group-title="USA",BET (US) (+)
+https://tvpass.org/live/BETEast/hd
+#EXTINF:-1 tvg-id="BET.Her.us2" group-title="USA",BET Her (US) (+)
+https://tvpass.org/live/BETHerEast/hd
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" group-title="USA",Big Ten Network (US) (+)
+https://tvpass.org/live/BTN/hd
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" group-title="USA",Bloomberg TV (US) (+)
+https://tvpass.org/live/BloombergTV/hd
+#EXTINF:-1 tvg-id="Boomerang.us2" group-title="USA",Boomerang (US) (+)
+https://tvpass.org/live/Boomerang/hd
+#EXTINF:-1 tvg-id="Bravo.HD.us2" group-title="USA",Bravo (US) (+)
+https://tvpass.org/live/BravoEast/hd
+#EXTINF:-1 tvg-id="CSPAN.us2" group-title="USA",C-SPAN (US) (+)
+https://tvpass.org/live/CSPAN/hd
+#EXTINF:-1 tvg-id="CSPAN2.us2" group-title="USA",C-SPAN 2 (US) (+)
+https://tvpass.org/live/CSPAN2/hd
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" group-title="USA",Cartoon Network (US) (+)
+https://tvpass.org/live/CartoonNetworkEast/hd
+EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="USA",CBS Sports Network USA (US) (+)
+https://tvpass.org/live/CBSSportsNetworkUSA/hd
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" group-title="USA",Cinemax (US) (+)
+https://tvpass.org/live/CinemaxEast/hd
+#EXTINF:-1 tvg-id="" group-title="USA",Chicago Sports Network (US) (+)
+https://tvpass.org/live/chicago-sports-network/hd
+#EXTINF:-1 tvg-id="CMT.HD.us2" group-title="USA",CMT (US) (+)
+https://tvpass.org/live/CMTEast/hd
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="" group-title="USA,CNBC (US) (+)
+https://tvpass.org/live/CNBC/hd
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="" group-title="USA",CNN (US) (+)
+https://tvpass.org/live/CNN/hd
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" group-title="USA",Comedy Central (US) (+)
+https://tvpass.org/live/ComedyCentralEast/hd
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" group-title="USA",Crime and Investigation (US) (+)
+https://tvpass.org/live/CrimePlusInvestigation/hd
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" group-title="USA",Destination America (US) (+)
+https://tvpass.org/live/DestinationAmerica/hd
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" group-title="USA",Discovery Channel (US) (+)
+https://tvpass.org/live/DiscoveryChannelEast/hd
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" group-title="USA",Discovery Family (US) (+)
+https://tvpass.org/live/DiscoveryFamily/hd
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" group-title="USA",Discovery Life (US) (+)
+https://tvpass.org/live/DiscoveryLife/hd
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" group-title="USA",Disney (US) (+)
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" group-title="USA",Disney Junior (US) (+)
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" group-title="USA",Disney XD (US) (+)
+https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" group-title="USA",E Entertainment (US) (+)
+https://tvpass.org/live/EEast/hd
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="USA",ESPN (US) (+)
+https://tvpass.org/live/ESPN/hd
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" group-title="USA",ESPN U (US) (+)
+https://tvpass.org/live/ESPNU/hd
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="USA",ESPN 2 (US) (+)
+https://tvpass.org/live/ESPN2/hd
+#EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" group-title="USA",ESPN Deportes (US) (+)
+https://tvpass.org/live/espn-deportes/hd
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" group-title="USA",ESPN News (US) (+)
+https://tvpass.org/live/ESPNews/hd
+#EXTINF:-1 tvg-id="" group-title="USA",Fanduel Sports Indiana (US) (+)
+https://tvpass.org/live/fanduel-sports-indiana/hd
+#EXTINF:-1 tvg-id="" group-title="USA",Fanduel Sports Network Detroit (US) (+)
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd
+#EXTINF:-1 tvg-id="" group-title="USA",Fanduel Sports Network Florida (US) (+)
+https://tvpass.org/live/fanduel-sports-network-florida/hd
+#EXTINF:-1 tvg-id="" group-title="USA",Fanduel Sports Network Great Lakes (US) (+)
+https://tvpass.org/live/fanduel-sports-network-great-lakes/hd
+#EXTINF:-1 tvg-id="" group-title="USA",Fanduel Sports Network North (US) (+)
+https://tvpass.org/live/fanduel-sports-network-north/hd
+#EXTINF:-1 tvg-id="" group-title="USA",Fanduel Sports Network Ohio (US) (+)
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
+#EXTINF:-1 tvg-id="" group-title="USA",Fanduel Sports Network West (US) (+)
+https://tvpass.org/live/fanduel-sports-network-west/hd
+#EXTINF:-1 tvg-id="" group-title="USA",Fanduel Sports Network Sun (US) (+)
+https://tvpass.org/live/fanduel-sports-sun/hd
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="" group-title="USA",food network (US) (+)
+https://tvpass.org/live/FoodNetworkEast/hd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA",Fox (US) (+)
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2",Fox Business Network (US) (+)
+https://tvpass.org/live/FoxBusiness/hd
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="" group-title="USA",Fox News (US) (+)
+https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="USA",Fox Sports 1 (US) (+)
+https://tvpass.org/live/FoxSports1/hd
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="USA",Fox Sports 2 (US) (+)
+https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 tvg-id="Freeform.HD.us2" group-title="USA",Freeform (US) (+)
+https://tvpass.org/live/FreeformEast/hd
+#EXTINF:-1 tvg-id="Fuse.HD.us2" group-title="USA",FUSE TV (US) (+)
+https://tvpass.org/live/FuseEast/hd
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" group-title="USA",FX Movie Channel (US) (+)
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 tvg-id="FX.HD.us2" group-title="USA",FX Network (US) (+)
+https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 tvg-id="FXX.HD.us2" group-title="USA",FXX (US) (+)
+https://tvpass.org/live/FXXEast/hd
+#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" group-title="USA",FYI (US) (+)
+https://tvpass.org/live/FYIEast/hd
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" group-title="USA",Gameshow Network (US) (+)
+https://tvpass.org/live/game-show-network-east/hd
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" group-title="USA",Hallmark (US) (+)
+https://tvpass.org/live/HallmarkChannelEast/hd
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" group-title="USA",Hallmark Family (US) (+)
+https://tvpass.org/live/HallmarkDrama/hd
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" group-title="USA",Hallmark Mystery (US) (+)
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+#EXTINF:-1 tvg-id="HBO.East.us2" group-title="USA",HBO (US) (+)
+https://tvpass.org/live/HBOEast/hd
+#EXTINF:-1 tvg-id="HBO2.HD.us2" group-title="USA",HBO 2 (US) (+)
+https://tvpass.org/live/HBO2East/hd
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" group-title="USA",HBO Comedy (US) (+)
+https://tvpass.org/live/HBOComedyEast/hd
+#EXTINF:-1 tvg-id="HBO.Family.(HD).sg" group-title="USA",HBO Family (US) (+)
+https://tvpass.org/live/HBOFamilyEast/hd
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" group-title="USA",HBO Signature (US) (+)
+https://tvpass.org/live/HBOSignatureEast/hd
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" group-title="USA",HBO Zone (US) (+)
+https://tvpass.org/live/HBOZoneEast/hd
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" group-title="USA",HGTV (US) (+)
+https://tvpass.org/live/HGTVEast/hd
+#EXTINF:-1 tvg-id="History.HD.us2" group-title="USA",History Channel (US) (+)
+https://tvpass.org/live/HistoryEast/hd
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-logo="" group-title="USA",HLN (US) (+)
+https://tvpass.org/live/HLN/hd
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-logo="" group-title="USA",IFC (US) (+)
+https://tvpass.org/live/IFCEast/hd
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" group-title="USA",Invastigation Discovery (US) (+)
+https://tvpass.org/live/InvestigationDiscoveryEast/hd
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" group-title="USA",ION (US) (+)
+https://tvpass.org/live/IONTVEast/hd
+#EXTINF:-1 tvg-id="" group-title="USA",Lifetime Movies (US) (+)
+https://tvpass.org/live/LifetimeMoviesEast/hd
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" group-title="USA",Lifetime Network (US) (+)
+https://tvpass.org/live/LifetimeEast/hd
+#EXTINF:-1 tvg-id="Logo.us2" group-title="USA",Logo (US) (+)
+https://tvpass.org/live/LogoEast/hd
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" group-title="USA",Marquee Sports Network (US) (+)
+https://tvpass.org/live/marquee-sports-network/hd
+#EXTINF:-1 tvg-id="MeTV.Toons.us2" group-title="USA",MeTV Toons (US) (+)
+https://tvpass.org/live/metv-toons/hd
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" group-title="USA",MeTV (US) (+)
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
+#EXTINF:-1 tvg-id="" group-title="USA",Midatlantic Sports Network (US) (+)
+https://tvpass.org/live/midatlantic-sports-network/hd
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" group-title="USA",MLB Network (US) (+)
+https://tvpass.org/live/MLBNetwork/hd
+#EXTINF:-1 tvg-id="Monumental.Sports.Network.HD.us2" group-title="USA",Monumental Sports Network (US) (+)
+https://tvpass.org/live/monumental-sports-network/hd
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" group-title="USA",MoreMax (US) (+)
+https://tvpass.org/live/MoreMaxEast/hd
+#EXTINF:-1 tvg-id="MOTORTREND.HD.us2" group-title="USA",Motortrend (US) (+)
+https://tvpass.org/live/Motortrend/hd
+#EXTINF:-1 tvg-id="MSG.National.us2" group-title="USA",MSG (US) (+)
+https://tvpass.org/live/msg-madison-square-gardens/hd
+#EXTINF:-1 tvg-id="MSG.Plus.us2" group-title="USA",MSG Plus (US) (+)
+https://tvpass.org/live/msg-plus/hd
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" group-title="USA",MTV 2 (US) (+)
+https://tvpass.org/live/mtv-2-east/hd
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" group-title="USA",MTV (US) (+)
+https://tvpass.org/live/MTVEast/hd
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" group-title="USA",National Geographic HD (US) (+)
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" group-title="USA",National Geographic Wild HD (US) (+)
+https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" group-title="USA",NBA TV (US) (+)
+https://tvpass.org/live/NBATV/hd
+#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" group-title="USA",NBC Sports NOW (US) (+)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 tvg-id="",KNBC-DT1 (US) (+)
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.HD.us2" group-title="USA",NBC Sports Bay Area (US) (+)
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.us2" group-title="USA",NBC Sports Boston (US) (+)
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 tvg-id="NBC.Sports.California.Outer.Market.us2" group-title="USA",NBC Sports California (US) (+)
+https://tvpass.org/live/nbc-sports-california/hd
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" group-title="USA",NBC Sports Philadelphia (US) (+)
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" group-title="USA",New England Sports Network (US) (+)
+https://tvpass.org/live/new-england-sports-network/hd
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" group-title="USA",Newsmax TV (US) (+)
+https://tvpass.org/live/NewsmaxTV/hd
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" group-title="USA",NFL Network (US) (+)
+https://tvpass.org/live/NFLNetwork/hd
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" group-title="USA",NFL RedZone (US) (+)
+https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 tvg-id="NHL.Network.HD.us2" group-title="USA",NHL Network (US) (+)
+https://tvpass.org/live/NHLNetwork/hd
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" group-title="USA",NickJr. (US) (+)
+https://tvpass.org/live/NickJrEast/hd
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" group-title="USA",Nickelodeon (US) (+)
+https://tvpass.org/live/NickelodeonEast/hd
+#EXTINF:-1 tvg-id="Nicktoons.us2" group-title="USA",Nicktoons (US) (+)
+https://tvpass.org/live/NicktoonsEast/hd
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" group-title="USA",Oprah Winfrey Network (US) (+)
+https://tvpass.org/live/OWNEast/hd
+#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" group-title="USA",Outdoor Channel (US) (+)
+https://tvpass.org/live/OutdoorChannel/hd
+#EXTINF:-1 tvg-id="PBS.Stream.us2" group-title="USA",PBS (WNET) (US) (+)
+https://tvpass.org/live/WNET/hd
+#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" group-title="USA",ReelzChannel (US) (+)
+https://tvpass.org/live/Reelz/hd
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2" group-title="USA",Science (US) (+)
+https://tvpass.org/live/Science/hd
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" group-title="USA",SEC Network (US) (+)
+https://tvpass.org/live/SECN/hd
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" group-title="USA",Showtime (US) (+)
+https://tvpass.org/live/ShowtimeEast/hd
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" group-title="USA",Showtime 2 (US) (+)
+https://tvpass.org/live/Showtime2East/hd
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" group-title="USA",SNY Sportsnetwork (US) (+)
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd
+#EXTINF:-1 tvg-id="Space.City.Home.Network.HD.us2" group-title="USA",Space City Homenetwork (US) (+)
+https://tvpass.org/live/space-city-home-network/hd
+#EXTINF:-1 tvg-id="Sportsnet.East.ca2" group-title="USA",Sportsnet (US) (+)
+https://tvpass.org/live/sportsnet-east/hd
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="USA",Sportsnet 360 (US) (+)
+https://tvpass.org/live/sportsnet-360/hd
+#EXTINF:-1 tvg-id="Sportsnet.One.ca2" group-title="USA",Sportsnet One (US) (+)
+https://tvpass.org/live/sportsnet-one/hd
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" group-title="USA",Sportsnet Ontario (US) (+)
+https://tvpass.org/live/sportsnet-ontario/hd
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).ca2" group-title="USA",Sportsnet Pacific (US) (+)
+https://tvpass.org/live/sportsnet-pacific/hd
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" group-title="USA",Sportsnet West (US) (+)
+https://tvpass.org/live/sportsnet-west/hd
+#EXTINF:-1 tvg-id="Starz.HD.us2" group-title="USA",Starz (US) (+)
+https://tvpass.org/live/StarzEast/hd
+#EXTINF:-1 tvg-id="SundanceTV.HD.us2" group-title="USA",Sundance TV (US) (+)
+https://tvpass.org/live/SundanceTVEast/hd
+#EXTINF:-1 tvg-id="Syfy.HD.us2" group-title="USA",SyFy (US) (+)
+https://tvpass.org/live/SyfyEast/hd
+#EXTINF:-1 tvg-id="TBS.HD.us2" group-title="USA",TBS (US) (+)
+https://tvpass.org/live/TBSEast/hd
+#EXTINF:-1 tvg-id="Teen.Nick.us2" group-title="USA",TeenNick (US) (+)
+https://tvpass.org/live/TeenNickEast/hd
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" group-title="USA",Telemundo (US) (+)
+https://tvpass.org/live/TelemundoEast/hd
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" group-title="USA",The Weather Channel (US) (+)
+https://tvpass.org/live/TheWeatherChannel/hd
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" group-title="USA",TLC (US) (+)
+https://tvpass.org/live/TLCEast/hd
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" group-title="USA",The Movie Channel (US) (+)
+https://tvpass.org/live/TheMovieChannelEast/hd
+#EXTINF:-1 tvg-id="TNT.HD.us2" group-title="USA",TNT (US) (+)
+https://tvpass.org/live/TNTEast/hd
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" group-title="USA",Travel Channel (US) (+)
+https://tvpass.org/live/TravelChannelEast/hd
+#EXTINF:-1 tvg-id="truTV.HD.us2" group-title="USA",truTV (US) (+)
+https://tvpass.org/live/truTVEast/hd
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="USA",TSN1 (US) (+)
+https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="USA",TSN2 (US) (+)
+https://tvpass.org/live/tsn2/hd
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="USA",TSN3 (US) (+)
+https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="USA",TSN4 (US) (+)
+https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="USA",TSN5 (US) (+)
+https://tvpass.org/live/tsn5/hd
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" group-title="USA",Turner Classic Movies (US) (+)
+https://tvpass.org/live/TCMEast/hd
+#EXTINF:-1 tvg-id="TV.Land.HD.us2" group-title="USA",TV Land (US) (+)
+https://tvpass.org/live/tv-land-eastern/hd
+#EXTINF:-1 tvg-id="TV.ONE.HD.us2" group-title="USA",TV One (US) (+)
+https://tvpass.org/live/TVOne/hd
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" group-title="USA",Univision (US) (+)
+https://tvpass.org/live/UnivisionEast/hd
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="USA",USA Network East
+https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1 tvg-id="VH1.HD.us2" group-title="USA",VH1 (US) (+)
+https://tvpass.org/live/VH1East/hd
+#EXTINF:-1 tvg-id="Vice.HD.us2" group-title="USA",Vice (US) (+)
+https://tvpass.org/live/VICETV/hd
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" group-title="USA",WeTV (US) (+)
+https://tvpass.org/live/WeTVEast/hd
+#EXTINF:-1 tvg-id="Yes.Network.us2" group-title="USA",Yes Network (US) (+)
+https://tvpass.org/live/yes-network/hd
